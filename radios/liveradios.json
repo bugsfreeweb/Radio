@@ -1,0 +1,142 @@
+[
+  {
+    "name": "WKAQ 580",
+    "description": "WKAQ 580 AM news and talk radio station from San Juan, Puerto Rico",
+    "url": "https://tunein.cdnstream1.com/4851_128.mp3",
+    "thumb": "https://i.iheart.com/v3/re/assets/images/77d5680e-688b-4488-8c56-9b4963cb0813.png",
+    "status": "active"
+  },
+  {
+    "name": "NOTIUNO 630",
+    "description": "NotiUno 630 AM news and talk radio station from San Juan, Puerto Rico",
+    "url": "https://server20.servistreaming.com:9022/stream",
+    "thumb": "https://www.unoradio.com/logos/logos/notiuno/notiuno630.png",
+    "status": "active"
+  },
+  {
+    "name": "Radio Once",
+    "description": "Radio Once 1120 AM station from Hatillo, Puerto Rico",
+    "url": "http://49.13.212.200:14167/stream?type=http&nocache=21",
+    "thumb": "https://www.radioonce.com/templates/rt_galatea/custom/images/demo/home/header/logo-radio11.png",
+    "status": "active"
+  },
+  {
+    "name": "Radio Isla",
+    "description": "Radio Isla 1320 AM news and talk station from San Juan, Puerto Rico",
+    "url": "https://server7.servistreaming.com/proxy/radioisla?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+    "thumb": "https://radioIsla.tv/wp-content/uploads/2019/06/Logo-Radio-Isla.png",
+    "status": "active"
+  },
+  {
+    "name": "Radio Tiempo",
+    "description": "Radio Tiempo 1430 AM station from Caguas, Puerto Rico",
+    "url": "https://server7.servistreaming.com/proxy/tiempo?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+    "thumb": "https://radiotiempo.net/wp-content/uploads/2022/08/tiempo-172x128.png",
+    "status": "active"
+  },
+  {
+    "name": "Radio Cumbre",
+    "description": "Radio Cumbre 1470 AM station from Orocovis, Puerto Rico",
+    "url": "https://sp.unoredcdn.net/8158/stream/1/",
+    "thumb": "https://i.ibb.co/5g2402Cc/wkum-png.png",
+    "status": "active"
+  },
+  {
+    "name": "Radio Oro",
+    "description": "Radio Oro 92.5 FM station from Corozal, Puerto Rico",
+    "url": "https://us2.internet-radio.com/proxy/woro?mp=/stream",
+    "thumb": "https://cdn-profiles.tunein.com/s21791/images/logod.png?t=637238626060000000",
+    "status": "active"
+  },
+  {
+    "name": "Z 93",
+    "description": "Z 93 WZNT 93.7 FM salsa music station from San Juan, Puerto Rico",
+    "url": "https://liveaudio.lamusica.com/PR_WZNT_icy",
+    "thumb": "https://i.ibb.co/23BMsKBY/wznt-png.png",
+    "status": "active"
+  },
+  {
+    "name": "La Nueva 94",
+    "description": "La Nueva 94 WODA 94.7 FM urban music station from San Juan, Puerto Rico",
+    "url": "https://liveaudio.lamusica.com/PR_WODA_icy",
+    "thumb": "https://i.ibb.co/sv1RBc08/wodalogo.png",
+    "status": "active"
+  },
+  {
+    "name": "Fidelity",
+    "description": "Fidelity 95.7 FM music station from Rio Piedras, Puerto Rico",
+    "url": "https://server7.servistreaming.com/proxy/fidelity?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+    "thumb": "https://fidelitypr.com/wp-content/uploads/2022/01/cropped-Redisen%CC%83o-Logo-Fidelity-3-15-2048x677.png",
+    "status": "active"
+  },
+  {
+    "name": "Estereotempo",
+    "description": "Estereotempo WRXD 96.5 FM music station from San Juan, Puerto Rico",
+    "url": "https://liveaudio.lamusica.com/PR_WRXD_icy",
+    "thumb": "https://i.ibb.co/F4GM0W81/wrxr.png",
+    "status": "active"
+  },
+  {
+    "name": "Magic 97.3",
+    "description": "Magic 97.3 WOYE 97.3 FM music station from Rio Grande, Puerto Rico",
+    "url": "https://stream.eleden.com:8210/magic.aac",
+    "thumb": "https://i.ibb.co/Z6WqXPzV/woye.png",
+    "status": "active"
+  },
+  {
+    "name": "SalSoul",
+    "description": "SalSoul WPRM 99.1 FM salsa music station from San Juan, Puerto Rico",
+    "url": "https://server20.servistreaming.com:9023/stream?type=.mp3&_=1",
+    "thumb": "https://salsoul.com/wp-content/uploads/2020/12/cropped-salsoul-2.png",
+    "status": "active"
+  },
+  {
+    "name": "La X",
+    "description": "La X WXYX 100.7 FM music station from Bayamón, Puerto Rico",
+    "url": "http://stream.eleden.com:8235/lax.ogg",
+    "thumb": "https://i.ibb.co/zWDcRnBw/laxpng.png",
+    "status": "active"
+  },
+  {
+    "name": "Hot102",
+    "description": "Hot 102 WTOK 102.5 FM music station from San Juan, Puerto Rico",
+    "url": "https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+    "thumb": "https://hot102pr.com/wp-content/uploads/2023/10/Artboard-4.png",
+    "status": "active"
+  },
+  {
+    "name": "KQ105",
+    "description": "KQ 105 WKAQ 104.7 FM music station from San Juan, Puerto Rico",
+    "url": "https://televicentro.streamguys1.com/wkaqfm-icy?key=e018260d508e5b04e91a4d9a30f7ceea9b71bd86e2bfdb6fcc3bbd4928525c00",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/8/80/KQ_105_WKAQ-FM_2014_logo.png",
+    "status": "active"
+  },
+  {
+    "name": "La Mega 106.9",
+    "description": "La Mega 106.9 WMEG 106.9 FM music station from San Juan, Puerto Rico",
+    "url": "https://liveaudio.lamusica.com/PR_WMEG_icy",
+    "thumb": "https://i.ibb.co/Xrp2nhpQ/WMEG-PNG.png",
+    "status": "active"
+  },
+  {
+    "name": "Latino 99",
+    "description": "Latino 99 salsa music satellite radio from Kissimmee, Florida",
+    "url": "https://lmmradiocast.com/latino99fm",
+    "thumb": "https://mm.aiircdn.com/371/5928f28889f51.png",
+    "status": "active"
+  },
+  {
+    "name": "Salseo",
+    "description": "Salseo Radio salsa music satellite radio from Quebradillas, Puerto Rico",
+    "url": "https://listen.radioking.com/radio/399811/stream/452110",
+    "thumb": "https://static.wixstatic.com/media/8dfec0_3e265a2f0fb5417c90c55be4e4e7d3cf~mv2.png/v1/fill/w_276,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGOSALSEORADIO_clipped_rev_2_v2%20(1).png",
+    "status": "active"
+  },
+  {
+    "name": "La Vieja Z",
+    "description": "La Vieja Z salsa music satellite radio from Central Florida",
+    "url": "https://s3.free-shoutcast.com/stream/18094",
+    "thumb": "https://i.ibb.co/d4VZVjj2/LVZ8-removebg-preview.png",
+    "status": "active"
+  }
+]
