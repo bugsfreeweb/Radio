@@ -5,7 +5,7 @@ Live internet radio streaming with equalizer, sleep timer, favorites, queue, dar
 
 Live Demo → https://tonetune.netlify.app
 
-<img src="https://raw.githubusercontent.com/bugsfreeweb/radio/main/assets/logo.png" alt="Bugsfree radio" width="70%"/>
+<img src="https://raw.githubusercontent.com/bugsfreeweb/radio/main/assets/logo.png" alt="Bugsfree radio" width="25%"/>
 
 ---
 
