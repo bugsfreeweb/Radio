@@ -1,0 +1,82 @@
+[
+  {
+    "name": "My Station name - 128 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "http://tektite.streamguys1.com:5140/wwnojazz-mp3",
+    "thumb": "http://radio.pervii.com/im/6/1574511266.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561450"
+  },
+  {
+    "name": "RadioIDL - 128 kbit/s",
+    "description": "BLUES Radio",
+    "url": "http://mp3.radioidl.com:8002/stream/1/",
+    "thumb": "http://radio.pervii.com/im/3/1570409763.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561457"
+  },
+  {
+    "name": "Radio Jazz 89.1 FM - 64 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "http://nashe1.hostingradio.ru/jazz-64.mp3",
+    "thumb": "http://radio.pervii.com/im/5/1537515045.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561459"
+  },
+  {
+    "name": "Jazz London Radio - 256 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "http://radio.canstream.co.uk:8075/live.mp3?",
+    "thumb": "http://radio.pervii.com/im/5/1554051895.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561461"
+  },
+  {
+    "name": "SmoothJazz.com Global - 128 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "http://66.85.89.6:80/2585_128.mp3",
+    "thumb": "http://radio.pervii.com/im/6/1555340396.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561463"
+  },
+  {
+    "name": "Lounge Motion FM - MotionFM.com - 96 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "https://vm.motionfm.com/motionthree_aacp?=3",
+    "thumb": "http://radio.pervii.com/im/4/1561691364.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561464"
+  },
+  {
+    "name": "SmoothLounge.com - 128 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "https://smoothjazz.cdnstream1.com/2586_128.mp3",
+    "thumb": "http://radio.pervii.com/logo/4382.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561466"
+  },
+  {
+    "name": "Unspecified name - 128 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "https://jazzradio.ice.infomaniak.ch/jazzblues-high.mp3",
+    "thumb": "http://radio.pervii.com/logo/12774.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561467"
+  },
+  {
+    "name": "JAZZ RADIO NATIONALE - 128 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "https://jazzradio.ice.infomaniak.ch/frequencejazz-high.mp3",
+    "thumb": "http://radio.pervii.com/im/5/1549791295.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561469"
+  },
+  {
+    "name": "1.FM - Adore Jazz Radio - 128 kbit/s",
+    "description": "JAZZ Radio",
+    "url": "http://strm112.1.fm/ajazz_mobile_mp3?",
+    "thumb": "http://radio.pervii.com/logo/1426449734.jpg",
+    "status": "active",
+    "last_checked": "2025-12-06T16:04:03.561471"
+  }
+]
