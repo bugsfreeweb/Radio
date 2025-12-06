@@ -45,8 +45,8 @@ Live Demo → https://tonetune.netlify.app
 
 1. **Clone or download the repo**
    ```bash
-   git clone https://github.com/bugsfreeweb/tonetune-pub.git
-   cd tonetune-pub
+   git clone https://github.com/bugsfreeweb/radio-pub.git
+   cd radio-pub
 2. Open index.html in your browser – that’s it! No build step needed.
 3. (Optional) Deploy anywhere:
 - Netlify → Drag & drop the folder
