@@ -1,0 +1,9 @@
+[
+  { "name": "BBC World Service", "description": "International News", "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service", "thumb": "./assets/bbc-world-service.png", "status": "active" },
+  { "name": "Radio Paradise", "description": "Eclectic Mix", "url": "https://stream.radioparadise.com/aac-320", "thumb": "./assets/radio-paradise.png", "status": "active" },
+  { "name": "181.FM - The Buzz", "description": "Alternative Rock", "url": "https://listen.181fm.com/181-buzz_128k.mp3", "thumb": "./assets/181-fm.png", "status": "active" },
+  { "name": "KEXP 90.3", "description": "Seattle Public Radio", "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3", "thumb": "./assets/kexp-fm.png", "status": "active" },
+  { "name": "Radio Paradise Rock Mix", "description": "Rock Mix 128k AAC", "url": "http://stream.radioparadise.com/rock-128", "thumb": "./assets/radio-paradise.png", "status": "active" },
+  { "name": "Radio Paradise Mellow Mix", "description": "Mellow Mix 128k AAC", "url": "http://stream.radioparadise.com/mellow-128", "thumb": "./assets/radio-paradise.png", "status": "active" },
+  { "name": "Radio Paradise World-Etc", "description": "World Eclectic 128k AAC", "url": "http://stream.radioparadise.com/global-128", "thumb": "./assets/radio-paradise.png", "status": "active" }
+]
