@@ -37,5 +37,68 @@
   { "name": "Radio Garden Top", "description": "Live Global FM", "url": "https://radio.garden/api/ara-best-guess/stream", "thumb": "./assets/radio-garden.png", "status": "active" },
   { "name": "TuneIn Hits 1", "description": "Top 40 Hits", "url": "http://tunein-hits1.stream", "thumb": "./assets/tunein.png", "status": "active" },
   { "name": "myTuner Top Bangladesh", "description": "Regional Pop", "url": "https://mytuner-bangladesh.stream", "thumb": "./assets/mytuner.png", "status": "active" },
-  { "name": "Radio.net Pop", "description": "International Pop", "url": "https://radio.net/pop-stream.mp3", "thumb": "./assets/radio-net.png", "status": "active" }
+  { "name": "Radio.net Pop", "description": "International Pop", "url": "https://radio.net/pop-stream.mp3", "thumb": "./assets/radio-net.png", "status": "active" },
+  {
+    "name": "Radio Today(89.6)",
+    "description": "Radio Today 89.6 FM from Dhaka, Bangladesh",
+    "url": "http://node-03.zeno.fm/0zha3rfq02quv",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwsPsZ8ydAQQ_Qq5CYuqdlhzCBze53_7NzCg&usqp=CAU",
+    "status": "active"
+  },
+  {
+    "name": "Bangladesh Betar Dhaka",
+    "description": "National broadcaster Bangladesh Betar from Dhaka",
+    "url": "http://as3.digitalsynapsebd.com:8263/;stream.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUmJx9jACLmDe3lkRYxo4AZcuxSuD6rIqbvw&usqp=CAU",
+    "status": "active"
+  },
+  {
+    "name": "Radio Foorti",
+    "description": "Radio Foorti music radio station",
+    "url": "https://node-11.zeno.fm/f0bfdk2w34zuv",
+    "thumb": "https://cdn-profiles.tunein.com/s122537/images/logod.png?t=636625146120570000",
+    "status": "active"
+  },
+  {
+    "name": "Colours FM",
+    "description": "Colours FM music radio station",
+    "url": "http://45.64.135.88:8000/stream1",
+    "thumb": "https://en.wikipedia.org/wiki/Colours_FM#/media/File:Colours_FM_logo.png",
+    "status": "active"
+  },
+  {
+    "name": "Jagoo FM",
+    "description": "Jagoo FM music radio station",
+    "url": "http://128.199.184.111:12496/;stream/1",
+    "thumb": "https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",
+    "status": "active"
+  },
+  {
+    "name": "FnF.FM Bangla",
+    "description": "FnF.FM Bangla music radio station",
+    "url": "http://eu6.fastcast4u.com:5099/;stream",
+    "thumb": "https://static.mytuner.mobi/media/tvos_radios/mn9anbdu3mle.png",
+    "status": "active"
+  },
+  {
+    "name": "Traffic FM",
+    "description": "Traffic FM talk radio station",
+    "url": "http://as3.digitalsynapsebd.com:8263/;stream.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5fsVPeMvC-Is-WajMo_pk13SBT-A7yjko0Q&s",
+    "status": "active"
+  },
+  {
+    "name": "Big FM",
+    "description": "Big FM music radio station",
+    "url": "http://sc-bb.1.fm:8017/;",
+    "thumb": "https://via.placeholder.com/100x60?text=Big+FM",
+    "status": "active"
+  },
+  {
+    "name": "Awaj FM",
+    "description": "Awaj FM talk radio station",
+    "url": "http://streamasiacdn.atc-labs.com/radioawaj.aac",
+    "thumb": "https://via.placeholder.com/100x60?text=Awaj+FM",
+    "status": "active"
+  }
 ]
