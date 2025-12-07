@@ -171,7 +171,7 @@ The application comes pre-configured with 12 popular radio stations:
 9. **BBC Radio 6 Music** - Alternative Music
 10. **Worldwide FM (A)** - Global Music (Primary)
 11. **Worldwide FM (B)** - Global Music (Backup)
-12. **Radio Today-FM from Dhaka Bangladesh** - Regional Pop
+12. **Radio Today-FM from Bangladesh** - Regional Pop
 
 ## 🛠️ Customization
 
@@ -237,7 +237,7 @@ const SOURCES = {
 - **181.FM**: Commercial internet radio network
 - **KEXP**: Seattle Public Radio
 - **Worldwide FM**: Global music streaming
-- **Radio Today-FM from Dhaka Bangladesh**: International radio directory
+- **Radio Today-FM from Bangladesh**: International radio directory
 
 ### External Dependencies
 - **Font Awesome**: Icon library (CDN)
