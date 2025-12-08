@@ -1,0 +1,2578 @@
+[
+  {
+    "name": "Kabbalah",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467883"
+  },
+  {
+    "name": "Radio Kabbalah French",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.kab.tv/live1-fre-574bcfd5.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467896"
+  },
+  {
+    "name": "Radio Kabbalah Hebrew",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467897"
+  },
+  {
+    "name": "Radio Kabbalah English",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467899"
+  },
+  {
+    "name": "Radio Kabbalah Russian",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467900"
+  },
+  {
+    "name": "Radio Koha",
+    "description": "Classical;Baroque",
+    "url": "http://perseus.shoutca.st:9504/;stream.mp3",
+    "thumb": "https://online-radio.eu/logo/26/26085.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467901"
+  },
+  {
+    "name": "Radio Bhojpuriya",
+    "description": "(.*);(.*);",
+    "url": "http://streaming.softnep.net:8143/;stream.nsv&type=mp3&volume=60",
+    "thumb": "https://www.radiobhojpuriyafm.com/images/style/logo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467902"
+  },
+  {
+    "name": "Galei Zahal 102.3",
+    "description": "(.*);(.*);",
+    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+    "thumb": "https://cdn-radiotime-logos.tunein.com/s24906g.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467903"
+  },
+  {
+    "name": "Peoples Radio 91.6",
+    "description": "Pop;Talk",
+    "url": "http://s3.myradiostream.com:14498/;listen.mp3",
+    "thumb": "https://cdn-radiotime-logos.tunein.com/s160808d.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467904"
+  },
+  {
+    "name": "Galgalatz",
+    "description": "(.*);(.*);",
+    "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+    "thumb": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467906"
+  },
+  {
+    "name": "Sharjah Radio 94.4",
+    "description": "World;Arabic;Folk",
+    "url": "http://svs.itworkscdn.net/smcradiolive/smcradiolive/chunks.m3u8",
+    "thumb": "https://cdn-profiles.tunein.com/s3036/images/logog.png?t=1",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467907"
+  },
+  {
+    "name": "Energy Radio NRG",
+    "description": "Top 40;Pop",
+    "url": "http://ice31.securenetsystems.net/AL09?type=.mp3",
+    "thumb": "https://cdn-profiles.tunein.com/s48061/images/logog.jpg?t=1662750750000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467908"
+  },
+  {
+    "name": "Climbing Radio",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/fluid2306.aac?FLID=6",
+    "thumb": "http://www.climbingradio.it/static/images/no-cover.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467909"
+  },
+  {
+    "name": "Radio Klan 92.9",
+    "description": "Rock;R'n'B;Pop",
+    "url": "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrus3XNx0ZAM0HXeQB1tI0HHE2UGnfULBbOw&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467910"
+  },
+  {
+    "name": "AIR Kochi Rainbow",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467911"
+  },
+  {
+    "name": "OakyLP",
+    "description": "(.*);(.*);",
+    "url": "http://stream.oak935.org/oak935-128.aac",
+    "thumb": "https://play-lh.googleusercontent.com/9jbxOUZ52cNPbXitV45ciBEGT3MQ52osAuxJwM6GK5E2iHzRhT-QNjsQu7_U-R0Wvk-R",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467912"
+  },
+  {
+    "name": "Dubai Radio 93.0",
+    "description": "Arabic;News;Talk",
+    "url": "https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8",
+    "thumb": "https://cdn-profiles.tunein.com/s170068/images/logog.jpg?t=161435",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467913"
+  },
+  {
+    "name": "Progressive FM 107.3",
+    "description": "Reggae;Gospel;Contemporary",
+    "url": "http://ca10.rcast.net:8010/;stream.mp3",
+    "thumb": "https://static-media.streema.com/media/cache/51/05/5105e04fe4a2dc9a09764d054e991648.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467915"
+  },
+  {
+    "name": "AIR Malayalam",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467916"
+  },
+  {
+    "name": "AIR Kozhikode Real 103.6",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467917"
+  },
+  {
+    "name": "Dancefloor 90s",
+    "description": "(.*);(.*);",
+    "url": "http://streaming.radiodancefloor.it/live.mp3",
+    "thumb": "http://www.radiodancefloor.it//favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467918"
+  },
+  {
+    "name": "Pulse 95",
+    "description": "News;Talk;Sports",
+    "url": "https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8",
+    "thumb": "https://cdn-profiles.tunein.com/s140482/images/logog.jpg?t=161435",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467919"
+  },
+  {
+    "name": "Pointe 99.1 FM",
+    "description": "Pop;News;Hits",
+    "url": "https://18213.live.streamtheworld.com/SP_R3743588.aac",
+    "thumb": "https://static-media.streema.com/media/cache/6d/11/6d11dff813116bce434044196623592f.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467920"
+  },
+  {
+    "name": "Dimensione Radio",
+    "description": "(.*);(.*);",
+    "url": "http://dimensioneradio.ice.infomaniak.ch/dimensioneradio-128.mp3",
+    "thumb": "http://dimensioneradio.com/wp-content/uploads/2013/12/01.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467921"
+  },
+  {
+    "name": "AIR Thrissur 630",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467922"
+  },
+  {
+    "name": "Fujairah 92.6 FM",
+    "description": "Variety;Talk",
+    "url": "https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhzfwoCPRUwWi1qIVMoY_0yzQC_5MvC5w8w&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467923"
+  },
+  {
+    "name": "Galgalatz",
+    "description": "(.*);(.*);",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+    "thumb": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467924"
+  },
+  {
+    "name": "AIR Pune 792",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+    "thumb": "http://allindiaradio.gov.in/radio/images/air-pune.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467924"
+  },
+  {
+    "name": "LatteMiele Puglia",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/lattemielepuglia.aac?FLID=6",
+    "thumb": "http://players1.fluidstream.it/LatteMielePuglia/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467925"
+  },
+  {
+    "name": "Italian Dance Network",
+    "description": "(.*);(.*);",
+    "url": "http://radio.italiandancenetwork.com:8000/stream.mp3",
+    "thumb": "http://italiandancenetwork.com/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467926"
+  },
+  {
+    "name": "AIR Pune 101.0",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
+    "thumb": "https://newsonair.com/wp-content/uploads/2021/06/cropped-12-1-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467927"
+  },
+  {
+    "name": "AIR Vividh Bharathi 102.9",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "thumb": "https://static.mytuner.mobi/media/tvos_radios/wNBk42xDwX.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467928"
+  },
+  {
+    "name": "AIR Manjeri 102.7",
+    "description": "(.*);(.*);",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467929"
+  },
+  {
+    "name": "AIR Tamil",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "thumb": "https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/air-tamil.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467930"
+  },
+  {
+    "name": "Discoradio",
+    "description": "(.*);(.*);",
+    "url": "https://stream.discoradio.radio/audio/disco.stream_aac64/chunklist.m3u8",
+    "thumb": "https://www.radio.net/images/broadcasts/4e/2c/27084/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467931"
+  },
+  {
+    "name": "AIR Tirupati 103.2",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+    "thumb": "https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/airtirupati.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467932"
+  },
+  {
+    "name": "Reshet Bet",
+    "description": "(.*);(.*);",
+    "url": "https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467933"
+  },
+  {
+    "name": "Radio Air Rainbow 102.2 Vijayawada",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/05/AIRLogo.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467934"
+  },
+  {
+    "name": "iWebRadio",
+    "description": "(.*);(.*);",
+    "url": "http://nr4.newradio.it:9400/;stream.mp3",
+    "thumb": "https://www.iwebradio.fm/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467935"
+  },
+  {
+    "name": "AIR Rainbow 103.0 Coimbatore",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8",
+    "thumb": "https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/aircoimbatorefmrainbow.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467936"
+  },
+  {
+    "name": "AIR Kannur 101.5",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+    "thumb": "https://www.radioindialive.com/apple-icon-120x120.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467937"
+  },
+  {
+    "name": "LatteMiele Marche Abruzzo",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/fluid016.aac",
+    "thumb": "http://players1.fluidstream.it/LatteMiele/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467938"
+  },
+  {
+    "name": "Radio Essence of Life",
+    "description": "(.*);(.*);",
+    "url": "https://eol-live.cdnwiz.com/eol/eolmp3/icecast.audio",
+    "thumb": "https://radio.eol.co.il/en/wp-content/uploads/2020/04/eol_Radio.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467939"
+  },
+  {
+    "name": "Music Star Rolling Stones",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginSpecialEvent.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467940"
+  },
+  {
+    "name": "Music Star Pino Daniele",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Daniele.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467941"
+  },
+  {
+    "name": "AIR Kochi 102.3",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8",
+    "thumb": "https://liveradios.in/wp-content/uploads/AIR_Kochi_FM.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467942"
+  },
+  {
+    "name": "Kodai 100.5",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmA3NMJUxjCZWsENxjprTfTy-kiDUgMTm0lg&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467943"
+  },
+  {
+    "name": "Kan Gimmel 97.8",
+    "description": "(.*);(.*);",
+    "url": "https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/master.m3u8",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Logo_Color9_img_.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467944"
+  },
+  {
+    "name": "AIR Coimbatore 999",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8",
+    "thumb": "https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/aircoimbatore.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467945"
+  },
+  {
+    "name": "AIR Air Shimla 103.7",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/chunklist.m3u8",
+    "thumb": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467946"
+  },
+  {
+    "name": "Spice 96.4",
+    "description": "Bengali;English;Variety",
+    "url": "https://stream.spicefmbd.com/stream.m3u8",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4PstD_tkT7GzkOL824P1_6IXlPdKfX1KJw&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467947"
+  },
+  {
+    "name": "Lolli Radio Oldies",
+    "description": "(.*);(.*);",
+    "url": "http://stream.lolliradio.net/lolli_oldies.mp3",
+    "thumb": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_oldies-150x150.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467948"
+  },
+  {
+    "name": "Arulvakku FM",
+    "description": "(.*);(.*);",
+    "url": "https://stream.arulvakku.com/radio/8000/radio.mp3",
+    "thumb": "https://static.mytuner.mobi/media/tvos_radios/mRCrTsxdmk.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467949"
+  },
+  {
+    "name": "Easy Network",
+    "description": "(.*);(.*);",
+    "url": "http://sphera.fluidstream.eu/easy.mp3?FLID=6",
+    "thumb": "https://www.radio.net/images/broadcasts/0b/f3/11601/1/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467950"
+  },
+  {
+    "name": "Air Murshidabad 102.2",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
+    "thumb": "https://onlineradiofm.in/assets/image/radio/180/murshidabad.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467951"
+  },
+  {
+    "name": "Solapur Akashwani 103.4",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXqb8mqRGbKqAi4IjcAKdIeJOmSsi6a9j3RJXPQGzH3dr2olg6Wy2gkTzPmWyGCCYRprw&usqp=CAU",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467952"
+  },
+  {
+    "name": "Radio Air Rainbow 102.2 Vijayawada",
+    "description": "(.*);(.*);",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+    "thumb": "https://newsonair.com/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467953"
+  },
+  {
+    "name": "Vibz FM 92.9",
+    "description": "Calypso;Caribbean;Reggae",
+    "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+    "thumb": "https://static-media.streema.com/media/cache/58/45/5845b85daee0a39ae0b66f6c7d716768.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467954"
+  },
+  {
+    "name": "Music Star Elisa",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Elisa.mp3",
+    "thumb": "http://www.105.net/resizer/112/112/true/1496130706062.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467955"
+  },
+  {
+    "name": "Music Star Tiziano Ferro",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Ferro.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467955"
+  },
+  {
+    "name": "Musica Jazz Radio",
+    "description": "(.*);(.*);",
+    "url": "http://ice03.fluidstream.net/mjr.aac",
+    "thumb": "https://www.musicajazz.it/wp-content/uploads/mj.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467957"
+  },
+  {
+    "name": "92100",
+    "description": "(.*);(.*);",
+    "url": "https://sr10.inmystream.it:18039/stream;.mp3",
+    "thumb": "https://d371i8ihhgym7w.cloudfront.net/119353466.jpeg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467957"
+  },
+  {
+    "name": "Music Star Ligabue",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Ligabue.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467959"
+  },
+  {
+    "name": "Music Star Zucchero",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Zucchero.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467960"
+  },
+  {
+    "name": "Music Star Jovanotti",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Jovanotti.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467961"
+  },
+  {
+    "name": "Music Star Queen",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/Virgin_05.mp3",
+    "thumb": "https://www.virginradio.it/upload/1545409166532.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467962"
+  },
+  {
+    "name": "Radio Italia Anni 90",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um018.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467963"
+  },
+  {
+    "name": "Tel Aviv 102FM",
+    "description": "(.*);(.*);",
+    "url": "http://102.livecdn.biz/102fm_aac",
+    "thumb": "https://102fm.co.il/img/images/logo-top-menu.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467963"
+  },
+  {
+    "name": "Promoradio Network 102.1",
+    "description": "(.*);(.*);",
+    "url": "http://nr11.newradio.it:9112/;stream.mp3",
+    "thumb": "http://www.promovideotv.com/wp/app/uploads/2015/07/radio-300x300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467964"
+  },
+  {
+    "name": "Music Star Vasco",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Vasco.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467965"
+  },
+  {
+    "name": "Kan Bet 95.5",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image3_img__2.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467966"
+  },
+  {
+    "name": "Eco 99fm",
+    "description": "(.*);(.*);",
+    "url": "http://eco-live.mediacast.co.il/99fm_aac?hash=1559501510715.m4a",
+    "thumb": "http://img.bizportal.co.il/giflib/news/logo99_615_111015.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467967"
+  },
+  {
+    "name": "Music Star Pink Floyd",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
+    "thumb": "http://www.virginradio.it/resizer/152/152/true/1523959715237.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467968"
+  },
+  {
+    "name": "Kan Tarbut 98.4",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image5_img__2.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467969"
+  },
+  {
+    "name": "Radio Italia Anni 60",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um014.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467970"
+  },
+  {
+    "name": "ITALIA Hits Italia",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um011.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467971"
+  },
+  {
+    "name": "Radio Italia Festival",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um073.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467972"
+  },
+  {
+    "name": "Radio Italia Anni 80",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um016.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467973"
+  },
+  {
+    "name": "Music Star George Michael",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/MusicStarPrince.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467974"
+  },
+  {
+    "name": "Auditorium Radio Italia",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um015.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467975"
+  },
+  {
+    "name": "Gregory Isaacs",
+    "description": "",
+    "url": "https://streaming.exclusive.radio/er/gregoryisaacs/icecast.audio",
+    "thumb": "https://manager.uber.radio/static/uploads/station/f4ed9d14-401c-42f4-be26-6e836732cc68.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467976"
+  },
+  {
+    "name": "Radio Amore Italia 94.3",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um012.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467977"
+  },
+  {
+    "name": "Radio 51",
+    "description": "(.*);(.*);",
+    "url": "http://ice04.fluidstream.net/fluid0406.aac",
+    "thumb": "http://www.51news.it/images/loghi/logo_facebook.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467978"
+  },
+  {
+    "name": "Radio Italia Rock",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um076.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467979"
+  },
+  {
+    "name": "Kan Gimel 97.8",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3",
+    "thumb": "https://www.rlive.co.il/storage/uploads/stations/Q4IUO2dHHBgUhGxvj5jvCiOGOPedRATh0yvbuzeU.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467980"
+  },
+  {
+    "name": "No Name Radio",
+    "description": "(.*);(.*);",
+    "url": "https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/radio2indie_256/chunklist.m3u8",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlft97p70kbdl3P7pWUh0xOcWEmEhMYc6z-w&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467981"
+  },
+  {
+    "name": "Kan Kol HaMusica",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3",
+    "thumb": "https://www.kan.org.il/images/logo_ogImageKan.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467982"
+  },
+  {
+    "name": "Kan 88.0",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467983"
+  },
+  {
+    "name": "Radio Italia Viva Napoli",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um017.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467984"
+  },
+  {
+    "name": "R101 '80",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R10180.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467985"
+  },
+  {
+    "name": "Kan Gimmel 97.8",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/749625_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Logo_Color9_img_.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467986"
+  },
+  {
+    "name": "Kan Moreshet 92.5",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image6_img__2.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467987"
+  },
+  {
+    "name": "Kan 88",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Station_Share_Image4_img_.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467988"
+  },
+  {
+    "name": "Kan Reka 100.3",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
+    "thumb": "https://static-media.streema.com/media/cache/eb/6b/eb6b8048d840b0a2e13fe0057052cef0.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467989"
+  },
+  {
+    "name": "Makan Radio",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy.media.kan.org.il/icy/makan_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Logo_Color13_img_.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467990"
+  },
+  {
+    "name": "Radio Italia Millenials",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um021.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467991"
+  },
+  {
+    "name": "Radio Italia Anni 70",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um020.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467992"
+  },
+  {
+    "name": "Radio Anaunia",
+    "description": "(.*);(.*);",
+    "url": "http://s6.mediastreaming.it:9134/;stream.mp3",
+    "thumb": "http://s6.mediastreaming.it/9134/html5/skin/default.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467993"
+  },
+  {
+    "name": "R101 Your Love",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R101YourLove.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467994"
+  },
+  {
+    "name": "Radio 105 Dance 90",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105Dance90.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1433428729434.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467995"
+  },
+  {
+    "name": "Radio Azzurra",
+    "description": "(.*);(.*);",
+    "url": "http://s3.mediastreaming.it:7100/;stream.mp3",
+    "thumb": "http://www.radioazzurra.it//assets/images/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467996"
+  },
+  {
+    "name": "Kan Bet 95.5",
+    "description": "(.*);(.*);",
+    "url": "http://kanliveicy01.bynetcdn.com/icy/kanbet_mp3",
+    "thumb": "https://kanweb.blob.core.windows.net/download/pictures/Logo_Color3_img_.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467997"
+  },
+  {
+    "name": "Radio Belluno",
+    "description": "(.*);(.*);",
+    "url": "http://ice01.fluidstream.net/belluno.aac?FLID=6",
+    "thumb": "http://www.radiobelluno.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467998"
+  },
+  {
+    "name": "Radio Ananas 91.0",
+    "description": "(.*);(.*);",
+    "url": "http://ice05.fluidstream.net/fluid0501.aac?FLID=6",
+    "thumb": "http://players.fluidstream.it/ananas/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.467999"
+  },
+  {
+    "name": "R101 Radio",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/r101_mp3",
+    "thumb": "https://www.r101.it//favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468000"
+  },
+  {
+    "name": "Antenna Radio Esse 93.5",
+    "description": "(.*);(.*);",
+    "url": "http://s8.mediastreaming.it:9058/;stream.mp3",
+    "thumb": "https://cdn-profiles.tunein.com/s63608/images/logog.png?t=157893",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468001"
+  },
+  {
+    "name": "Radio Balla Balla",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/ballaballa.mp3?FLID=6",
+    "thumb": "http://static.wixstatic.com/media/12c6d6_1c1a32e349ba40b385a0c39b2c37b92f.png_srz_p_384_384_75_22_0.50_1.20_0.00_png_srz",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468002"
+  },
+  {
+    "name": "Radio Ascoli",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/fluid0909.mp3?FLID=E",
+    "thumb": "http://players.fluidstream.it/RadioAscoli/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468002"
+  },
+  {
+    "name": "Radio 105 Classics",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105Classics.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432888700007.png--.png?1432888700000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468004"
+  },
+  {
+    "name": "R101 Katy Perry",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/101SpecialArtist.mp3",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468005"
+  },
+  {
+    "name": "Radio 105 Hip Hop & RnB",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105HipHopRnB.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432889345723.png--.png?1432889346000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468006"
+  },
+  {
+    "name": "R101 '00",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R1012000.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468007"
+  },
+  {
+    "name": "R101 '90",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R10190.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468008"
+  },
+  {
+    "name": "R101 New Music Friday",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R101NewMusicFriday.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468009"
+  },
+  {
+    "name": "Radio 105 Hits",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105Hits.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1453218238726.png--.png?1453218240000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468010"
+  },
+  {
+    "name": "R101 Enjoy The Music",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/101Legend.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468011"
+  },
+  {
+    "name": "Radio 105 InDaKlubb",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105InDaKlubb.mp3",
+    "thumb": "https://www.radio.net/images/broadcasts/0a/a2/9764/1/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468012"
+  },
+  {
+    "name": "Radio 105 Coldplay",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/ColdPlay.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432889253459.png--.png?1432889253000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468013"
+  },
+  {
+    "name": "Radio 105 2K & More",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/1052kandMore.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432888734254.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468013"
+  },
+  {
+    "name": "R101 La Banda di R101",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R101LaBanda.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468014"
+  },
+  {
+    "name": "R101 Made in Italy",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R101MadeInItaly.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468015"
+  },
+  {
+    "name": "R101 '70",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/R10170.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468016"
+  },
+  {
+    "name": "R101 Urban Night",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/101UrbanNight.aac",
+    "thumb": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468017"
+  },
+  {
+    "name": "Radio 105 Miami",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105Miami.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432889330099.png--.png?1432889330000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468018"
+  },
+  {
+    "name": "Radio 105 Story",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105Story.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432889316721.png--.png?1432889317000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468019"
+  },
+  {
+    "name": "Radio 105 Rap Italia",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105RapItalia.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432888443087.png--.png?1432888443000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468020"
+  },
+  {
+    "name": "Radio 105 Zoo Radio",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/105Zoo.mp3",
+    "thumb": "http://www.105.net/resizer/380/380/true/1432889359274.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468021"
+  },
+  {
+    "name": "Radio 105 Trap",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/105Trap.mp3",
+    "thumb": "https://www.105.net/upload/1536831069014.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468022"
+  },
+  {
+    "name": "Radio Bluetu",
+    "description": "(.*);(.*);",
+    "url": "http://audio1.meway.tv:8092/stream.mp3",
+    "thumb": "https://radio.bluetu.it/wp-content/uploads/2019/11/radio2-150x150.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468023"
+  },
+  {
+    "name": "Radio 105 Indie",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/105_524.mp3",
+    "thumb": "https://www.105.net/resizer/-1/-1/true/105_105INDIE-1626864866439.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468024"
+  },
+  {
+    "name": "Radio 105",
+    "description": "(.*);(.*);",
+    "url": "https://icecast.unitedradio.it/Radio105.mp3",
+    "thumb": "https://www.105.net//favicon_3.ico?v=1541510632000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468025"
+  },
+  {
+    "name": "K-Rock",
+    "description": "(.*);(.*);",
+    "url": "https://ice20.fluidstream.net/ric.mp3",
+    "thumb": "http://players1.fluidstream.it/KrockRadiostation/images/logo320.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468026"
+  },
+  {
+    "name": "Pfarrradio Kaltern-Caldaro",
+    "description": "(.*);(.*);",
+    "url": "https://radiocast.cloud/radio/8110/radio.mp3?1603457029",
+    "thumb": "https://www.pfarrei-kaltern.it/cache/img-struct-logo-de.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468026"
+  },
+  {
+    "name": "Jolly FM",
+    "description": "(.*);(.*);",
+    "url": "http://nr4.newradio.it:9422/;stream.mp3",
+    "thumb": "http://www.jollyfm.it/apple-touch-icon.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468027"
+  },
+  {
+    "name": "Radio 105 Network",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/Radio105.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468028"
+  },
+  {
+    "name": "Radio Center Music",
+    "description": "(.*);(.*);",
+    "url": "http://str01.fluidstream.net/fluid1_05.mp3?FLID=6",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s95049q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468029"
+  },
+  {
+    "name": "Radio Catanzaro RTC",
+    "description": "(.*);(.*);",
+    "url": "http://s3.mediastreaming.it:7570/;stream.mp3",
+    "thumb": "http://www.radiocatanzaro.it/radiocatanzaro/rtc.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468030"
+  },
+  {
+    "name": "Radio Canelli Monferrato",
+    "description": "(.*);(.*);",
+    "url": "http://nr5.newradio.it:8533/;stream.mp3",
+    "thumb": "http://www.radiocanelli.it/immagini/logo/logo_radio_canelli.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468031"
+  },
+  {
+    "name": "Nuova Rete",
+    "description": "(.*);(.*);",
+    "url": "http://nr5.newradio.it:8623/;streaming.aac",
+    "thumb": "https://cdn-radiotime-logos.tunein.com/s95360g.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468032"
+  },
+  {
+    "name": "Radio City 103.9",
+    "description": "(.*);(.*);",
+    "url": "http://sr6.inmystream.it:8050/;stream.mp3",
+    "thumb": "http://www.radiolaser.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468033"
+  },
+  {
+    "name": "Radio Gamma 5",
+    "description": "(.*);(.*);",
+    "url": "http://ice05.fluidstream.net/fluid0510.mp3?FLID=6",
+    "thumb": "http://players.fluidstream.it/RadioGamma5/images/logo320.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468034"
+  },
+  {
+    "name": "Radio Eco Sud",
+    "description": "(.*);(.*);",
+    "url": "http://178.32.140.82:9577/;stream.mp3",
+    "thumb": "http://www.radioecosud.it/wp-content/uploads/2016/03/cropped-under-1-e1458749940875-192x192.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468035"
+  },
+  {
+    "name": "Radio FinestrAperta",
+    "description": "(.*);(.*);",
+    "url": "http://94.23.67.172:9114/;stream.mp3",
+    "thumb": "http://www.finestraperta.it/wp-content/uploads/2013/06/logo-farfalla-uildm1.gif",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468036"
+  },
+  {
+    "name": "Radio 19",
+    "description": "(.*);(.*);",
+    "url": "http://rn1.fluidstream.eu/radio19.mp3?FLID=6",
+    "thumb": "http://www.radio19.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468037"
+  },
+  {
+    "name": "Radio Frequenza",
+    "description": "(.*);(.*);",
+    "url": "http://s6.mediastreaming.it:9000/;stream.mp3",
+    "thumb": "http://www.rfrequenza.it/immagini/logofixed.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468038"
+  },
+  {
+    "name": "Radio Faleria Mare",
+    "description": "(.*);(.*);",
+    "url": "http://nr6.newradio.it:9209/;stream.aac",
+    "thumb": "https://www.hostingshoutcast.com/facebook-app/faleriafm/images/noImage.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468039"
+  },
+  {
+    "name": "One Dance",
+    "description": "(.*);(.*);",
+    "url": "http://ice10.fluidstream.net/rn1_2.mp3",
+    "thumb": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/b5rmepuwneyd.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468040"
+  },
+  {
+    "name": "Radio 80",
+    "description": "(.*);(.*);",
+    "url": "https://sphera.fluidstream.eu/radio80.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468041"
+  },
+  {
+    "name": "Radio Kiss Kiss",
+    "description": "(.*);(.*);",
+    "url": "http://ice07.fluidstream.net:8080/KissKiss.mp3",
+    "thumb": "https://mk0kisskissb8a9sk7eb.kinstacdn.com/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468042"
+  },
+  {
+    "name": "Radio Bau & Co.",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/RadioBAU.mp3",
+    "thumb": "http://www.radiomontecarlo.net/resizer/130/130/true/1421338544159.jpg--.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468043"
+  },
+  {
+    "name": "Radio Kiss Kiss History Hits",
+    "description": "(.*);(.*);",
+    "url": "http://ice08.fluidstream.net/kk_history.aac",
+    "thumb": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468044"
+  },
+  {
+    "name": "Radio Kiss Kiss Latina",
+    "description": "(.*);(.*);",
+    "url": "http://ice08.fluidstream.net/kk_latina.aac",
+    "thumb": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468044"
+  },
+  {
+    "name": "Radio Kiss Kiss Hits",
+    "description": "(.*);(.*);",
+    "url": "http://ice08.fluidstream.net/kk_hits.aac",
+    "thumb": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468045"
+  },
+  {
+    "name": "Radio Kiss Kiss Rock",
+    "description": "(.*);(.*);",
+    "url": "http://ice08.fluidstream.net/kk_rock.aac",
+    "thumb": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468046"
+  },
+  {
+    "name": "Love FM",
+    "description": "(.*);(.*);",
+    "url": "http://rh.fluidstream.eu/lovefm.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s91822q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468047"
+  },
+  {
+    "name": "Mach 5 Due",
+    "description": "(.*);(.*);",
+    "url": "http://sr4.inmystream.info:8183/;stream.mp3",
+    "thumb": "http://www.radiomach5.it/pl/rete1/assets/img/favicon-96x96.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468048"
+  },
+  {
+    "name": "Radio Lady",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/fluid02_8350.aac?FLID=6",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s114053q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468049"
+  },
+  {
+    "name": "Radio Kiss Kiss Sanremo Story",
+    "description": "(.*);(.*);",
+    "url": "http://ice08.fluidstream.net/kk_sanremo.mp3",
+    "thumb": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468050"
+  },
+  {
+    "name": "Lady Radio",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:9126/;stream.mp3",
+    "thumb": "http://www.ladyradio.it/wp-content/uploads/2016/11/Lady-Radio-APP_A_200x200.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468051"
+  },
+  {
+    "name": "Radio Mania",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/fluid0913.mp3",
+    "thumb": "http://radiomania.it/it/wp-content/uploads/logo-radiomania.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468052"
+  },
+  {
+    "name": "Primaradio",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8126/;stream.mp3",
+    "thumb": "https://cdn-radiotime-logos.tunein.com/s95195q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468053"
+  },
+  {
+    "name": "Lolli Radio Soft",
+    "description": "(.*);(.*);",
+    "url": "https://stream.lolliradio.net/lolli_soft.mp3",
+    "thumb": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_soft-150x150.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468054"
+  },
+  {
+    "name": "Antenna Radio Adriatica",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8428/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s95231q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468055"
+  },
+  {
+    "name": "Radio Battikuore 95.5",
+    "description": "(.*);(.*);",
+    "url": "http://nr6.newradio.it:9124/;stream.aac",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCV00LAxtmjEoHn2vhrKCgthmyWnQpAD5CHDA0FIv3EramIeh0Tk9tZjB31beqh4EyrY&usqp=CAU",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468056"
+  },
+  {
+    "name": "Lolli Radio Hits",
+    "description": "(.*);(.*);",
+    "url": "https://stream.lolliradio.net/lolli_hits.mp3",
+    "thumb": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_hits-150x150.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468057"
+  },
+  {
+    "name": "Radio Casalnuovo Musica",
+    "description": "(.*);(.*);",
+    "url": "https://live.radiocampania.eu/radio/8040/radio.mp3",
+    "thumb": "https://images.app.goo.gl/jNkvsXJv5WfjqXZc6",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468058"
+  },
+  {
+    "name": "Radio Incontro Pesaro",
+    "description": "(.*);(.*);",
+    "url": "http://sr8.inmystream.info:8014/;stream.mp3",
+    "thumb": "http://www.radioincontro.com/wp-content/uploads/2016/08/cropped-okok-1-270x270.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468059"
+  },
+  {
+    "name": "Lolli Radio Dance",
+    "description": "(.*);(.*);",
+    "url": "https://stream.lolliradio.net/lolli_dance.mp3",
+    "thumb": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_dance-150x150.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468060"
+  },
+  {
+    "name": "Radio Amore Nostalgia Catania",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8838/;stream.mp3",
+    "thumb": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468061"
+  },
+  {
+    "name": "Radio Amore Catania",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8842/;stream.mp3",
+    "thumb": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468062"
+  },
+  {
+    "name": "Basilicata Radio 2",
+    "description": "(.*);(.*);",
+    "url": "http://sr1.inmystream.info:8333/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s157356q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468063"
+  },
+  {
+    "name": "Radio Iride",
+    "description": "(.*);(.*);",
+    "url": "http://sphera.fluidstream.eu/rpd.mp3?FLID=6",
+    "thumb": "http://players1.fluidstream.it/RadioIride/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468064"
+  },
+  {
+    "name": "Radio Irene",
+    "description": "(.*);(.*);",
+    "url": "http://centauri.shoutca.st:8402/;stream.mp3",
+    "thumb": "https://image.jimcdn.com/app/cms/image/transf/none/path/s675bb103aa2abcec/image/id622a339c4db4ea1/version/1510517411/image.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468065"
+  },
+  {
+    "name": "Radio Onda Libera 103",
+    "description": "(.*);(.*);",
+    "url": "http://ice04.fluidstream.net/fluid0409.mp3",
+    "thumb": "http://www.rol103.it/img/favico.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468066"
+  },
+  {
+    "name": "Radio Amore One Dance Catania",
+    "description": "(.*);(.*);",
+    "url": "http://onair22.streaming.xdevel.com:10010/;stream.mp3",
+    "thumb": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_dance.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468067"
+  },
+  {
+    "name": "Lolli Radio Happy Station",
+    "description": "(.*);(.*);",
+    "url": "https://stream.lolliradio.net/lolli_happy.mp3",
+    "thumb": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_happy-150x150.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468068"
+  },
+  {
+    "name": "Malvisi Network",
+    "description": "(.*);(.*);",
+    "url": "http://onair20.xdevel.com:8062/;stream.mp3",
+    "thumb": "https://cdn-radiotime-logos.tunein.com/s92235q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468069"
+  },
+  {
+    "name": "Lolli Radio Italia",
+    "description": "(.*);(.*);",
+    "url": "https://stream.lolliradio.net/lolli_italia.mp3",
+    "thumb": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468070"
+  },
+  {
+    "name": "Radio Punto Zero Tre Venezie",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/rpz.mp3",
+    "thumb": "http://www.radiopuntozero.com/wp-content/uploads/2015/10/favicon_iphone.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468071"
+  },
+  {
+    "name": "Radio Bergamo",
+    "description": "(.*);(.*);",
+    "url": "http://str04.fluidstream.net/bergamo.mp3",
+    "thumb": "http://radiobergamo.it/image/logo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468072"
+  },
+  {
+    "name": "Radio Gamma 92.5",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8210/;stream.aac",
+    "thumb": "https://www.radiogamma.it/sites/default/files/favico.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468073"
+  },
+  {
+    "name": "Radio Pocket 94.6",
+    "description": "(.*);(.*);",
+    "url": "http://ice15.fluidstream.net/pocket.aac",
+    "thumb": "https://www.radiopocket.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468074"
+  },
+  {
+    "name": "Radio Capri 100.0",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:9242/;stream.mp3",
+    "thumb": "https://streamsolution1.xdevel.com/services-logos/cKayTrf2r49iCrh9utRHC8ibZ9A0HKPDfY172ccC-400x400.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468075"
+  },
+  {
+    "name": "Radio Empire",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:9996/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s63699q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468076"
+  },
+  {
+    "name": "Radio Popizz",
+    "description": "(.*);(.*);",
+    "url": "http://nr11.newradio.it:8116/;stream.mp3",
+    "thumb": "https://play-lh.googleusercontent.com/6nucP04TVnf2n1QnIZ-CEMnQ_gctvIbhfvlydqDDMkCBQ4Vs5_TBfufskUMB03wIpw=w240-h480-rw",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468077"
+  },
+  {
+    "name": "Radio Bergamo",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/bergamo.aac",
+    "thumb": "http://www.radiobergamo.it/image/logo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468078"
+  },
+  {
+    "name": "Radio Amore Campania",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:8002/;stream.mp3",
+    "thumb": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468079"
+  },
+  {
+    "name": "Radio Itaca",
+    "description": "(.*);(.*);",
+    "url": "http://164.132.178.50:8000/stream.mp3",
+    "thumb": "http://www.radioitaca.it/wp-content/uploads/2016/11/cropped-Itcaca_Icon-270x270.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468080"
+  },
+  {
+    "name": "Radio 103",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:8084/;stream.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbczqdkBfT7eKbrdN9fHMV3RO7OI_kvfCB39dmOesTVugNgamvLzaicpCprxoFztGS&usqp=CAU",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468081"
+  },
+  {
+    "name": "Radio SeiSei",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/fluid02_8360.aac?FLID=6",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s187491q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468082"
+  },
+  {
+    "name": "Radio Sacra Famiglia",
+    "description": "(.*);(.*);",
+    "url": "http://nr6.newradio.it:9174/;listen&ext=.mp3",
+    "thumb": "https://radiosacrafamiglia.it/typo3conf/ext/prj_template/Resources/Public/RSF/Images/logo.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468083"
+  },
+  {
+    "name": "Radio California",
+    "description": "(.*);(.*);",
+    "url": "http://onair22.streaming.xdevel.com:10084/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s154443q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468084"
+  },
+  {
+    "name": "Radio Ciroma 105.7",
+    "description": "(.*);(.*);",
+    "url": "http://s6.mediastreaming.it:9096/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s288306q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468085"
+  },
+  {
+    "name": "Radio Delta 100.2",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8974/;stream.mp3",
+    "thumb": "https://cdn-radiotime-logos.tunein.com/s95003q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468086"
+  },
+  {
+    "name": "Radio Bellla & Monella",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/bella.mp3",
+    "thumb": "http://players1.fluidstream.it/RadioBelllaeMonella/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468087"
+  },
+  {
+    "name": "Radio Etna Espresso",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8088/;stream.mp3",
+    "thumb": "http://www.radioetnaespresso.com/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468088"
+  },
+  {
+    "name": "Radio Amore Napoli",
+    "description": "(.*);(.*);",
+    "url": "http://onair20.xdevel.com:8204/;stream.mp3",
+    "thumb": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468089"
+  },
+  {
+    "name": "Radio CRC Targato Italia",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:9998/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s95018q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468090"
+  },
+  {
+    "name": "Radio Ciao",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:9988/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s95068q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468091"
+  },
+  {
+    "name": "Radio Action 101",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:7986/;stream.mp3",
+    "thumb": "https://static.mytuner.mobi/media/tvos_radios/SLVTuwqxWz.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468092"
+  },
+  {
+    "name": "Radio Café 95.3",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:8000/;stream.mp3",
+    "thumb": "https://www.radiocafe.it/wp-content/uploads/2021/07/cropped-cafe-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468093"
+  },
+  {
+    "name": "Radio Giornale di Sicilia",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8372/;stream.aac",
+    "thumb": "http://sgdsit.cdn-immedia.net/img/share/logo_rgs.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468094"
+  },
+  {
+    "name": "Radio Diffusione Firenze",
+    "description": "(.*);(.*);",
+    "url": "http://onair22.streaming.xdevel.com:8244/;stream.mp3",
+    "thumb": "http://www.rdf.it/wp-content/uploads/sites/2/2016/12/cropped-RDF-Logo_esec-APP-192x192.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468095"
+  },
+  {
+    "name": "Radio Delta 1",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8942/;stream.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASgdC-XTH4TXFYcpM5OXd6DXsPbk_oyAcyQ&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468096"
+  },
+  {
+    "name": "Radio Bianconera",
+    "description": "(.*);(.*);",
+    "url": "https://stream.tmwradio.com/bianconera.aac",
+    "thumb": "http://players.fluidstream.it/RadioBiancoNera/icon.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468097"
+  },
+  {
+    "name": "Radio Studio Emme 108.0",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/fluid0901.aac?FLID=6",
+    "thumb": "http://players.fluidstream.it/studioemme/images/logo320.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468098"
+  },
+  {
+    "name": "Radio Tele Trentino",
+    "description": "(.*);(.*);",
+    "url": "http://ice04.fluidstream.net/fluid7108.aac?FLID=6",
+    "thumb": "http://www.radioetv.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468099"
+  },
+  {
+    "name": "Radio Club 103 103.0",
+    "description": "(.*);(.*);",
+    "url": "http://nr8.newradio.it:9065/;stream.mp3",
+    "thumb": "http://www.radioclub103.it/wp-content/uploads/2015/04/logo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468100"
+  },
+  {
+    "name": "OL3 Radio",
+    "description": "(.*);(.*);",
+    "url": "https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w1717825683.m3u8",
+    "thumb": "https://www.ol3radio.it/templates/rt_zenith/custom/images/ascolta-ol3radio.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468101"
+  },
+  {
+    "name": "Radio Mater",
+    "description": "(.*);(.*);",
+    "url": "https://radiocast.cloud/radio/8000/radio.mp3?1587711646",
+    "thumb": "https://play-lh.googleusercontent.com/uuYXWgHx8ilaSjZM9Os8Xz8AXpPNSCJg5s09f2xWD9QEGGpcW6cRak9ZvIuN9oguIQ=w240-h480-rw",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468102"
+  },
+  {
+    "name": "Radio Quar",
+    "description": "(.*);(.*);",
+    "url": "https://radioquar.com/radio/8000/radio320.mp3",
+    "thumb": "https://radioquar.com/static/icons/production/120.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468103"
+  },
+  {
+    "name": "Radio City Vercelli, Biella e Novara",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8216/;stream.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1k3n6Z1okD4v2GfuRVxXUV_nluDFErLB6Fw&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468104"
+  },
+  {
+    "name": "Radio SeiSei Vintage 102.1",
+    "description": "(.*);(.*);",
+    "url": "https://ice02.fluidstream.net/fluid02_8360.aac",
+    "thumb": "https://www.seiseivintage.it/wp-content/uploads/2020/03/seisei_vintage_testa_giu19-467px.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468105"
+  },
+  {
+    "name": "Radio Vela",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:8170/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s93060q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468106"
+  },
+  {
+    "name": "Radio Italia Anni 60 Trentino Alto Adige",
+    "description": "(.*);(.*);",
+    "url": "http://ice10.fluidstream.net/anni60tn.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468107"
+  },
+  {
+    "name": "Radio Risposta Web",
+    "description": "(.*);(.*);",
+    "url": "http://radiorispostaweb.ice.infomaniak.ch/radiorispostaweb-96.mp3",
+    "thumb": "https://lnx.radiorisposta.org/wp/wp-content/uploads/2015/11/logo-rrw-quadrato.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468108"
+  },
+  {
+    "name": "Radio Sherwood",
+    "description": "(.*);(.*);",
+    "url": "http://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3",
+    "thumb": "http://www.sherwood.it/img/logo_fb_share.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468109"
+  },
+  {
+    "name": "Radio Subasio",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Subasio.mp3",
+    "thumb": "http://www.radiosubasio.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468109"
+  },
+  {
+    "name": "Radio Valentina FM",
+    "description": "(.*);(.*);",
+    "url": "http://nr5.newradio.it:8587/;stream.mp3",
+    "thumb": "http://www.radiovalentina.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468110"
+  },
+  {
+    "name": "Radio Movida Crotone",
+    "description": "(.*);(.*);",
+    "url": "http://s6.mediastreaming.it:9054/;stream.mp3",
+    "thumb": "http://www.radiomovida.net/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468111"
+  },
+  {
+    "name": "Radio WoW",
+    "description": "(.*);(.*);",
+    "url": "http://sphera.fluidstream.eu/fluid_wow.aac?FLID=6",
+    "thumb": "https://radiowow.com/wp-content/uploads/2019/09/RadioWowLogo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468112"
+  },
+  {
+    "name": "Radio Luce",
+    "description": "(.*);(.*);",
+    "url": "http://s3.mediastreaming.it:9070/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s164815q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468113"
+  },
+  {
+    "name": "Radio Milazzo",
+    "description": "(.*);(.*);",
+    "url": "http://51.254.76.66:8012/;stream.mp3",
+    "thumb": "https://play-lh.googleusercontent.com/Rzg6qHdPYPr9rkQKPVNTynHptE5xkg5Pv9qC7LkT7d8bij_8QeCtzTO0WPV2H4nAwHc=w240-h480-rw",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468114"
+  },
+  {
+    "name": "Radio TRC",
+    "description": "(.*);(.*);",
+    "url": "http://sr3.inmystream.info:8018/;stream.mp3",
+    "thumb": "http://www.radiotrc.it/web/wp-content/uploads/2016/03/Logo-TRC-Tv-Neon-2-4-e1458243925804.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468115"
+  },
+  {
+    "name": "Radio Italia Anni 60 Lazio",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_rm.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468116"
+  },
+  {
+    "name": "Radio Italia Anni 60 Calabria",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_cz.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468117"
+  },
+  {
+    "name": "Radio Italia Anni 60 Puglia/Basilicata",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_ba.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468118"
+  },
+  {
+    "name": "Radio Italia Anni 60 Lombardia/Liguria",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_mi.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468118"
+  },
+  {
+    "name": "Radio Mia 98.6",
+    "description": "(.*);(.*);",
+    "url": "http://nr6.newradio.it:9118/;stream.aac",
+    "thumb": "https://cdn.onlineradiobox.com/img/fblogo/8/13388.v8.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468119"
+  },
+  {
+    "name": "Radio Giulia",
+    "description": "(.*);(.*);",
+    "url": "http://rh.fluidstream.eu/giulia.aac?FLID=6",
+    "thumb": "http://www.radiogiulia.it/images/logo320.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468120"
+  },
+  {
+    "name": "Radio Treviso",
+    "description": "(.*);(.*);",
+    "url": "http://s3.mediastreaming.it:7240/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s125179q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468121"
+  },
+  {
+    "name": "Radio Siena",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8042/;stream.mp3",
+    "thumb": "http://www.radiosienatv.it/wp-content/uploads/2016/01/cropped-favicon-blue-270x270.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468122"
+  },
+  {
+    "name": "Radio Barbagia",
+    "description": "(.*);(.*);",
+    "url": "http://sr1.inmystream.info:9075/;stream.mp3",
+    "thumb": "http://www.radiobarbagia.it/wordpress/wp-content/uploads/2013/05/logo-1.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468123"
+  },
+  {
+    "name": "Radio Marconi 94.8",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8922/;stream.mp3",
+    "thumb": "https://d371i8ihhgym7w.cloudfront.net/29155699.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468124"
+  },
+  {
+    "name": "Radio Marconi 2",
+    "description": "(.*);(.*);",
+    "url": "http://onair22.streaming.xdevel.com:7598/;stream.mp3",
+    "thumb": "https://www.radiomarconi.info/wp-content/themes/seed_templatebase/assets/favicons/apple-touch-icon.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468125"
+  },
+  {
+    "name": "Radio Onda Ligure Italia",
+    "description": "(.*);(.*);",
+    "url": "http://onair20.xdevel.com:8098/;stream.mp3",
+    "thumb": "http://www.ondaligure.it/images/skin3/logo.gif",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468126"
+  },
+  {
+    "name": "Radio Stereo Sant Agata",
+    "description": "(.*);(.*);",
+    "url": "http://radiostereo103.no-ip.biz:8000/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s95075q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468127"
+  },
+  {
+    "name": "Radio Subasio+",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/SubasioPiu.mp3",
+    "thumb": "http://www.radiosubasio.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468128"
+  },
+  {
+    "name": "Radio Onda Ligure 101",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8118/;stream.mp3",
+    "thumb": "https://www.radio.net/images/broadcasts/da/96/27094/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468129"
+  },
+  {
+    "name": "RCS Melody",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/fluid9120.aac",
+    "thumb": "http://players.fluidstream.it/RCSMelody/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468130"
+  },
+  {
+    "name": "Radio Mitology",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:9120/;stream.mp3",
+    "thumb": "http://www.mitology.it/wp-content/uploads/sites/3/2017/05/favicomito.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468131"
+  },
+  {
+    "name": "RCS Radio Camaldoli Stereo",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/fluid9114.aac",
+    "thumb": "http://players.fluidstream.it/RCS/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468132"
+  },
+  {
+    "name": "Radio Parsifal",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:10044/;stream.mp3",
+    "thumb": "http://www.parsifal.it/wp-content/uploads/2017/04/lOGO1-1.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468133"
+  },
+  {
+    "name": "RCS Story",
+    "description": "(.*);(.*);",
+    "url": "http://ice09.fluidstream.net/fluid9116.aac",
+    "thumb": "https://www.radio.fr/images/broadcasts/ed/5d/40620/1/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468134"
+  },
+  {
+    "name": "RCS Napoli",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/fluid1201.mp3",
+    "thumb": "http://players.fluidstream.it/RCSNapoli/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468135"
+  },
+  {
+    "name": "Radio Nuoro Centrale",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8048/;stream.mp3",
+    "thumb": "http://www.rnc.it/public_html/public/images/big/logo_fondo_sabbia.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468136"
+  },
+  {
+    "name": "RLB Radioattiva",
+    "description": "(.*);(.*);",
+    "url": "http://nr5.newradio.it:8767/stream.mp3",
+    "thumb": "http://www.rlb.it/radio/wp-content/uploads/2016/09/favico.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468137"
+  },
+  {
+    "name": "600.jpg\" group-title=\"(.*);(.*);\",Radio 108",
+    "description": "(.*);(.*);",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_ab42_890?mp=/mp3/listen.pls",
+    "thumb": "https://static.inonda.com/890/RES/player/cewC1sFgO9-cover-600,600.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468138"
+  },
+  {
+    "name": "Radio Sette Asiago",
+    "description": "(.*);(.*);",
+    "url": "http://5.135.39.189:8094/;stream.mp3",
+    "thumb": "https://www.radiosetteasiago.it/wp-content/uploads/2020/01/cropped-radio7_loginpage-192x192.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468139"
+  },
+  {
+    "name": "Radio Santa Teresa",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:9256/;stream.mp3",
+    "thumb": "http://www.streamsolution.net/services-logos/27L80MqhMbH7Y52L0BgoSBwtJbpRPngF9pIuhHya-400x400.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468140"
+  },
+  {
+    "name": "Radio Gherdëina Dolomites",
+    "description": "(.*);(.*);",
+    "url": "http://sr1.inmystream.info:8090/;stream.mp3",
+    "thumb": "https://play-lh.googleusercontent.com/DZN3u2PopA0Rdf4NcV3D4_mikdZYiFNCfWOirI4KUa_sgeMbhJJedpil-zO5ttlmxA=w240-h480-rw",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468141"
+  },
+  {
+    "name": "Radio Gold",
+    "description": "(.*);(.*);",
+    "url": "http://onair22.streaming.xdevel.com:10030/;stream.mp3",
+    "thumb": "http://radiogold.it/wp-content/themes/radiogold/images/icon/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468142"
+  },
+  {
+    "name": "Radio Planargia",
+    "description": "(.*);(.*);",
+    "url": "http://nr2.newradio.it:8294/;listen&ext=.mp3",
+    "thumb": "http://www.radioplanargia.net/themes/radioplanargia.net/src/img/image_src.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468143"
+  },
+  {
+    "name": "RDS Relax",
+    "description": "(.*);(.*);",
+    "url": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
+    "thumb": "http://www.rdsrelax.it/images/RDSRelax_3.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468144"
+  },
+  {
+    "name": "Radio Italia Anni 60 Emilia-Romagna/Marche",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_bo.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468145"
+  },
+  {
+    "name": "Radio Italia Anni 60 Piemonte",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_to.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468146"
+  },
+  {
+    "name": "Radio Italia Anni 60 Messina",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/ria60_me.aac",
+    "thumb": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468147"
+  },
+  {
+    "name": "Spazio Radio",
+    "description": "(.*);(.*);",
+    "url": "http://s3.mediastreaming.it:7190/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s93452q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468148"
+  },
+  {
+    "name": "Radio Stella",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8658/;stream.mp3",
+    "thumb": "http://www.radiostellaweb.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468149"
+  },
+  {
+    "name": "Radio Mille Note 103.5",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/millenote.aac",
+    "thumb": "https://www.radio.net/images/broadcasts/27/60/17406/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468150"
+  },
+  {
+    "name": "Radio Number One",
+    "description": "(.*);(.*);",
+    "url": "http://ice12.fluidstream.net/rn1.aac",
+    "thumb": "http://players1.fluidstream.it/numberone/RN1/images/cover_default.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468151"
+  },
+  {
+    "name": "Radio Show Italia 103.5",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8496/;stream.mp3",
+    "thumb": "http://www.radioshowitalia103e5.it/assets/images/radioshowitalia1035-logo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468152"
+  },
+  {
+    "name": "Radio Stop",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8030/;stream.mp3",
+    "thumb": "http://www.radiostop.it/sites/default/files/RadioStop2016.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468153"
+  },
+  {
+    "name": "Radio Studio 5",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8230/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s48001q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468154"
+  },
+  {
+    "name": "Radio RTM",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8722/;stream.mp3",
+    "thumb": "http://www.radiortm.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468155"
+  },
+  {
+    "name": "Rai Radio Trst A",
+    "description": "(.*);(.*);",
+    "url": "https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/friuliaudio1/hls/friuliaudio_320/chunklist.m3u8",
+    "thumb": "https://static.wikia.nocookie.net/logopedia/images/0/03/Rai_Radio_Trst_A.svg/revision/latest/scale-to-width-down/300?cb=20201003143139",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468156"
+  },
+  {
+    "name": "Virgin Radio Italia",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/Virgin.mp3",
+    "thumb": "http://www.virginradio.it/upload/1429513004299.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468157"
+  },
+  {
+    "name": "Tele Radio Stereo",
+    "description": "(.*);(.*);",
+    "url": "http://trsw.inmystream.info:8068/;stream.mp3",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s17518q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468158"
+  },
+  {
+    "name": "Radio Valentina",
+    "description": "(.*);(.*);",
+    "url": "http://wma01.fluidstream.net:8300/;stream.mp3",
+    "thumb": "http://players.fluidstream.it/valentina/images/logo320.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468159"
+  },
+  {
+    "name": "Rai Radio Tutta Italiana",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/4.mp3",
+    "thumb": "https://cdn-profiles.tunein.com/s25592/images/logoq.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468160"
+  },
+  {
+    "name": "Rai Radio 3",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/3.mp3",
+    "thumb": "http://db.radioline.fr/pictures/radio_bac81bc62f776c6dbc4f71704143df87/logo200.jpg?size=200",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468161"
+  },
+  {
+    "name": "Rai Radio Techetè",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/9.mp3",
+    "thumb": "https://www.raiplaysound.it/cropgd/1200x630/dl/img/2021/12/09/1639051279337_radio-techete_600x6001.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468162"
+  },
+  {
+    "name": "Rai Radio 2",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/2.mp3",
+    "thumb": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84164a5e3737b2596001ea8c17",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468163"
+  },
+  {
+    "name": "Rai Radio Kids",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/11.mp3",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rai_Radio_Kids_logo.svg/2000px-Rai_Radio_Kids_logo.svg.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468164"
+  },
+  {
+    "name": "Rai Gr Parlamento",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/7.mp3",
+    "thumb": "http://vignette4.wikia.nocookie.net/logopedia/images/e/ee/Rai_Parliamento_%282015-%29.png/revision/latest?cb=20161009023006",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468165"
+  },
+  {
+    "name": "Rai Radio Classica Filodiffusione",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/5.mp3",
+    "thumb": "https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468166"
+  },
+  {
+    "name": "Radio Supersound",
+    "description": "(.*);(.*);",
+    "url": "http://51.254.76.66:8010/;stream.mp3",
+    "thumb": "https://www.radiosupersound.it/wp-content/uploads/2019/03/radio_super_sound_logo_200px.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468167"
+  },
+  {
+    "name": "Radio Stereocittà",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:8134/;stream.mp3",
+    "thumb": "http://www.streamsolution.net/services-logos/mmFWJBfbj08OcUaGGhAanzoSB7xh4Kl7I43fpJao-400x400.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468168"
+  },
+  {
+    "name": "Radio Rock Roma",
+    "description": "(.*);(.*);",
+    "url": "http://rrock.fluidstream.eu/radiorock.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8i_bz168hmWoWp1ak-yygSDQG3B_sVVc9DnMfDLpXEWR8Xf22TqSFSkaALtc4VEllho&usqp=CAU",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468187"
+  },
+  {
+    "name": "Radio Laser",
+    "description": "(.*);(.*);",
+    "url": "http://sr1.inmystream.it:9002/;stream.mp3",
+    "thumb": "https://i1.wp.com/www.radiolaser.it/sito/wp-content/uploads/2016/10/cropped-OnAir.jpg?fit=192%2C192",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468189"
+  },
+  {
+    "name": "Radio Ufita",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8516/;stream.aac",
+    "thumb": "http://cdn-radiotime-logos.tunein.com/s93546q.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468191"
+  },
+  {
+    "name": "Rai Radio Classica",
+    "description": "(.*);(.*);",
+    "url": "https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdhdwbUa7czaNdRcObUbSard1b9c6afbs-bHWH_x-c0-HmtvxEw&aifp=V001",
+    "thumb": "https://www.raiplayradio.it/dl/components/img/radio/loghi/radioclassica.svg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468193"
+  },
+  {
+    "name": "RadioBlu",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8242/;stream.aac",
+    "thumb": "http://www.radioblu.com/../img/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468194"
+  },
+  {
+    "name": "Radio Touring Catania",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8856/;stream.mp3",
+    "thumb": "http://www.radiotouring.eu/images/logofb.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468196"
+  },
+  {
+    "name": "Traditional Christmas",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/um033.mp3",
+    "thumb": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468197"
+  },
+  {
+    "name": "RMC Radio Monte Carlo",
+    "description": "(.*);(.*);",
+    "url": "http://icecast.unitedradio.it/RMC.mp3",
+    "thumb": "http://www.radiomontecarlo.net/resizer/112/112/true/1474623016703.jpg--.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468199"
+  },
+  {
+    "name": "Rai Radio 2",
+    "description": "(.*);(.*);",
+    "url": "https://icestreaming.rai.it/2.mp3",
+    "thumb": "https://www.radio.net/300/rairadiodue.png?version=9c8fc30dfbab96c3aa4d8a36acc4434e",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468200"
+  },
+  {
+    "name": "Virgin Radio Hard Rock",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginHardRock.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464618389085.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468201"
+  },
+  {
+    "name": "Virgin Radio Rock '80",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRock80.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464618006747.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468203"
+  },
+  {
+    "name": "Veronica My Radio",
+    "description": "(.*);(.*);",
+    "url": "http://sphera.fluidstream.eu/rpd.mp3?FLID=8",
+    "thumb": "http://www.veronica.it/templates/radiowave/includes/images/ios/icon@2x.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468205"
+  },
+  {
+    "name": "Radio Venere",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8018/;stream.mp3",
+    "thumb": "http://www.streamsolution.net/services-logos/PbQZ88C5W5DxcnQpM8GTkXniiiCl8YnrjSrzIUs3-400x400.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468206"
+  },
+  {
+    "name": "Rai Isoradio",
+    "description": "(.*);(.*);",
+    "url": "https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8?auth=daEcidOcgbdbtdycfaacpczdMaratbaauby-bHWuNH-c0-ImrwxFq&aifp=V001",
+    "thumb": "https://ca.radio.net/300/raiisoradio.png?version=4288ff68ad307900455ee97b2f12f216",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468208"
+  },
+  {
+    "name": "Subasio Per Un'Ora D'Amore",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3",
+    "thumb": "http://www.radiosubasio.it/player/src/assets/logo/radiosubasio-puda.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468209"
+  },
+  {
+    "name": "Subasio Collection",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/SubasioCollection.mp3",
+    "thumb": "http://www.radiosubasio.it/player/src/assets/logo/radiosubasio-collection.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468210"
+  },
+  {
+    "name": "Virgin Radio Rock '90",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Virgin_03.mp3",
+    "thumb": "https://www.virginradio.it/upload/1547217562829.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468212"
+  },
+  {
+    "name": "Virgin Radio Rock '70",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRock70.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464617965673.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468213"
+  },
+  {
+    "name": "RMC Sport Network",
+    "description": "(.*);(.*);",
+    "url": "http://stream17.tmwradio.com/tmw.mp3",
+    "thumb": "https://ca.radio.net/300/rmcinfo.png?version=22bb14bf8d1447cd1bd3d4ae3a9b0c84",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468214"
+  },
+  {
+    "name": "RLV Radio Levanto Val di Vara",
+    "description": "(.*);(.*);",
+    "url": "http://onair15.xdevel.com:8430/;stream.mp3",
+    "thumb": "http://rlv.it/pagine/Sfondi/Logotop.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468216"
+  },
+  {
+    "name": "Virgin Radio Rock 2K",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Virgin_02.mp3",
+    "thumb": "https://www.virginradio.it/upload/1547215881793.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468217"
+  },
+  {
+    "name": "Virgin Radio Classic Rock",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRockClassics.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464618443020.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468218"
+  },
+  {
+    "name": "Solo Canzoni Napoletane",
+    "description": "(.*);(.*);",
+    "url": "https://my.streamingmedia.it/radio/8170/canzoninapoletane.mp3",
+    "thumb": "https://solocanzoninapoletane.it/logo128.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468220"
+  },
+  {
+    "name": "United Music Italia 2000",
+    "description": "(.*);(.*);",
+    "url": "https://icy.unitedradio.it/um013.mp3",
+    "thumb": "https://www.unitedmusic.com/favicon_6.ico?v=1558694480000",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468221"
+  },
+  {
+    "name": "Virgin Radio Rock Ballads",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/Virgin_06.mp3",
+    "thumb": "https://www.virginradio.it/upload/1555428080159.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468223"
+  },
+  {
+    "name": "Virgin Radio Rock Hits",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRockHits.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464618491053.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468224"
+  },
+  {
+    "name": "Stella FM",
+    "description": "(.*);(.*);",
+    "url": "http://178.32.138.88:8057/;stream.mp3",
+    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNW6BssB1OmQNdcF5UHZfqn3jC_IxQrgYhlQ&s",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468225"
+  },
+  {
+    "name": "Radio Napoli",
+    "description": "(.*);(.*);",
+    "url": "http://ice06.fluidstream.net/RadioNapoli.mp3?FLID=6",
+    "thumb": "https://www.radionapoli.it/wp-content/uploads/2017/02/icona_radionapoli.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468227"
+  },
+  {
+    "name": "Virgin Radio Rock Alternative",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRockAlternative.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464618466177.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468228"
+  },
+  {
+    "name": "Virgin Radio Rock Party",
+    "description": "(.*);(.*);",
+    "url": "http://icy.unitedradio.it/VirginRockParty.mp3",
+    "thumb": "http://www.virginradio.it/upload/1464618512503.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468230"
+  },
+  {
+    "name": "Radio Sound 97.5",
+    "description": "(.*);(.*);",
+    "url": "http://sr6.inmystream.it:8018/;stream.mp3",
+    "thumb": "http://www.inmystream.info/play/rs95/tmp/images/default.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468231"
+  },
+  {
+    "name": "XMas Radio",
+    "description": "(.*);(.*);",
+    "url": "https://icecast.unitedradio.it/um025.mp3",
+    "thumb": "https://www.105.net/resizer/380/380/true/1480523220519.png--.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468232"
+  },
+  {
+    "name": "Young Radio",
+    "description": "(.*);(.*);",
+    "url": "http://178.32.138.88:8050/;stream.mp3",
+    "thumb": "https://www.youngradio.it/nuovosito/wp-content/uploads/2019/03/cropped-favicon-1-95x95-180x180.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468234"
+  },
+  {
+    "name": "TRV",
+    "description": "(.*);(.*);",
+    "url": "http://onair18.xdevel.com:8428/;stream.mp3",
+    "thumb": "http://www.teleradioveneta.com/TRV_LOGO_RIL.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468235"
+  },
+  {
+    "name": "TMW Radio",
+    "description": "(.*);(.*);",
+    "url": "https://stream.tmwradio.com/tmw.aac",
+    "thumb": "https://www.radio.net/images/broadcasts/70/83/39289/4/c300.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468236"
+  },
+  {
+    "name": "Stella FM",
+    "description": "(.*);(.*);",
+    "url": "http://onair11.xdevel.com:8108/;stream.mp3",
+    "thumb": "http://www.stellafm.it/wp-content/uploads/2016/04/radio-stellafm-logo.png",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468237"
+  },
+  {
+    "name": "Radio WoW 98.7",
+    "description": "(.*);(.*);",
+    "url": "http://ice10.fluidstream.net/fluid_wow.aac",
+    "thumb": "https://www.liveradio.ie/files/images/347548/wow_192.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468238"
+  },
+  {
+    "name": "Vibra FM",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/playstudio.mp3",
+    "thumb": "https://www.vibrafm.it/logo.jpg",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468239"
+  },
+  {
+    "name": "Ritmo 80",
+    "description": "(.*);(.*);",
+    "url": "http://ice02.fluidstream.net/ritmo80.aac",
+    "thumb": "http://www.ritmo80.it/favicon.ico",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468239"
+  },
+  {
+    "name": "Rai Isoradio",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/6.mp3",
+    "thumb": "http://vignette3.wikia.nocookie.net/logopedia/images/c/ce/Rai_IsoRadio.svg/revision/latest?cb=20160928143027",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468240"
+  },
+  {
+    "name": "Rai Radio 1",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/1.mp3",
+    "thumb": "https://ca.radio.net/300/rairadiouno.jpeg?version=15ca269562d5e19b53012afdf5495cd3",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468242"
+  },
+  {
+    "name": "Rai Radio Live Napoli",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/10.mp3",
+    "thumb": "https://cdn-profiles.tunein.com/s132645/images/logog.jpg?t=636390",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468243"
+  },
+  {
+    "name": "RTR 99",
+    "description": "(.*);(.*);",
+    "url": "https://rtr99.fluidstream.eu/rtr99.mp3?FLID=3",
+    "thumb": "http://cdn-profiles.tunein.com/s64015/images/logoq.png?t=159382",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468244"
+  },
+  {
+    "name": "Rai Radio 1 Sport",
+    "description": "(.*);(.*);",
+    "url": "http://icestreaming.rai.it/13.mp3",
+    "thumb": "https://www.raiplayradio.it//dl/components/img/raiplayradio-logo-app.png?20171218124118",
+    "status": "active",
+    "last_checked": "2025-12-08T08:41:48.468245"
+  }
+]
