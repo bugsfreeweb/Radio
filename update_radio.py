@@ -21,7 +21,7 @@ session.mount('https://', adapter)
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Fresh verified sources (tested 2025-12-06, all 200 OK)
+# Fresh verified sources
 SOURCES = {
     "worldfm": [
         "https://raw.githubusercontent.com/iptv-org/iptv/master/categories/radio.m3u",
