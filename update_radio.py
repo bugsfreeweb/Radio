@@ -35,6 +35,17 @@ SOURCES = {
         "https://raw.githubusercontent.com/Pulham/Internet-Radio-HQ-URL-playlists/main/world_radio.m3u",
         "https://gist.githubusercontent.com/casaper/ddec35d21a0158628fccbab7876b7ef3/raw/bbc.m3u",
     ],
+    "world_public_radio": [
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/bd/bd.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/ae/ae.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/ae/ae_exclusiveradio.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/ag/ag.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/al/al.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/am/am.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/il/il.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/in/in.m3u",
+        "https://raw.githubusercontent.com/iprd-org/iprd/main/streams/it/it.m3u",
+    ],
     "bollywood": [
         "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/fm_cube/india.m3u",
         "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/india.m3u",
