@@ -10,7 +10,7 @@ import logging  # For better Actions logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-DEFAULT_THUMB = "https://tonetune.netlify.app/assets/tonetune.png"
+DEFAULT_THUMB = "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png"
 OUTPUT_DIR = "dailyupdated"
 CACHE_THRESHOLD = timedelta(hours=24)
 session = requests.Session()
