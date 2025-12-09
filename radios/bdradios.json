@@ -1,11 +1,4 @@
-[
-  {
-    "name": "ABC Radio(89.2)",
-    "description": "ABC Radio 89.2 FM from Dhaka, Bangladesh",
-    "url": "http://node-04.zeno.fm/h7n8ug96eeruv",
-    "thumb": "https://upload.wikimedia.org/wikipedia/bn/thumb/d/d5/%E0%A6%8F%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%A8%29.svg/381px-%E0%A6%8F%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%A8%29.svg.png",
-    "status": "active"
-  },
+[  
   {
     "name": "Radio Today(89.6)",
     "description": "Radio Today 89.6 FM from Dhaka, Bangladesh",
@@ -26,21 +19,7 @@
     "url": "https://node-11.zeno.fm/f0bfdk2w34zuv",
     "thumb": "https://cdn-profiles.tunein.com/s122537/images/logod.png?t=636625146120570000",
     "status": "active"
-  },
-  {
-    "name": "Colours FM",
-    "description": "Colours FM music radio station",
-    "url": "http://45.64.135.88:8000/stream1",
-    "thumb": "https://en.wikipedia.org/wiki/Colours_FM#/media/File:Colours_FM_logo.png",
-    "status": "active"
-  },
-  {
-    "name": "Jagoo FM",
-    "description": "Jagoo FM music radio station",
-    "url": "http://128.199.184.111:12496/;stream/1",
-    "thumb": "https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",
-    "status": "active"
-  },
+  }, 
   {
     "name": "FnF.FM Bangla",
     "description": "FnF.FM Bangla music radio station",
@@ -54,14 +33,7 @@
     "url": "http://as3.digitalsynapsebd.com:8263/;stream.mp3",
     "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5fsVPeMvC-Is-WajMo_pk13SBT-A7yjko0Q&s",
     "status": "active"
-  },
-  {
-    "name": "Big FM",
-    "description": "Big FM music radio station",
-    "url": "http://sc-bb.1.fm:8017/;",
-    "thumb": "https://via.placeholder.com/100x60?text=Big+FM",
-    "status": "active"
-  },
+  },  
   {
     "name": "Awaj FM",
     "description": "Awaj FM talk radio station",
