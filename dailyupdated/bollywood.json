@@ -1,1 +1,210 @@
-[]
+[
+  {
+    "name": "Dada Bhagwan – IN",
+    "description": "Radio Station",
+    "url": "https://download.dadabhagwan.org/fm/fm.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265500"
+  },
+  {
+    "name": "RADIO daijiworld",
+    "description": "Radio Station",
+    "url": "http://26343.live.streamtheworld.com/SAM08AAC013_SC",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265511"
+  },
+  {
+    "name": "Radio Udaan",
+    "description": "Radio Station",
+    "url": "http://173.212.234.220/radio/8000/radio.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265513"
+  },
+  {
+    "name": "Sikh Katha Radio",
+    "description": "Radio Station",
+    "url": "http://radio.punjabrocks.com:9978/;.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265515"
+  },
+  {
+    "name": "Array Radio Listen live",
+    "description": "Radio Station",
+    "url": "https://delivery-cdn-cf.adswizz.com/tunein_newEnco/ad_0_844878c3a7ee82f3bc8dfbf6b4a4f65c_862c32a8026fd29ed4a35fc369cf2f23_91.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265517"
+  },
+  {
+    "name": "1.FM – Bombay Beats India Radio",
+    "description": "Radio Station",
+    "url": "http://strm112.1.fm/bombaybeats_mobile_mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265519"
+  },
+  {
+    "name": "All Radio",
+    "description": "Radio Station",
+    "url": "https://www.trueheartbeats.com/mp3/001.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265520"
+  },
+  {
+    "name": "IBC Tamil – Mumbai – IN-MH",
+    "description": "Radio Station",
+    "url": "http://fm.ibctamil.com:6176/stream.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265522"
+  },
+  {
+    "name": "Radio Khushkhabri",
+    "description": "Radio Station",
+    "url": "http://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265523"
+  },
+  {
+    "name": "All India Radio - AIR FM Gold",
+    "description": "Radio Station",
+    "url": "http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265525"
+  },
+  {
+    "name": "AIR Mumbai Asmita",
+    "description": "Radio Station",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio01064kbps.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265527"
+  },
+  {
+    "name": "Akashvani Asmita Vahini FM",
+    "description": "Radio Station",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265528"
+  },
+  {
+    "name": "All India Radio - Chennai FM Rainbow 101.4",
+    "description": "Radio Station",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265530"
+  },
+  {
+    "name": "All India Radio - AIR Hyderabad FM Rainbow",
+    "description": "Radio Station",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265532"
+  },
+  {
+    "name": "AIR Madurai AM1269",
+    "description": "Radio Station",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/chunklist.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265533"
+  },
+  {
+    "name": "All India Radio - FM Gold",
+    "description": "Radio Station",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265535"
+  },
+  {
+    "name": "vividhbharathitamil",
+    "description": "Radio Station",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265536"
+  },
+  {
+    "name": "AIR Tiruchirappalli AM",
+    "description": "Radio Station",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265538"
+  },
+  {
+    "name": "Radio Udaan",
+    "description": "Radio Station",
+    "url": "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265540"
+  },
+  {
+    "name": "Radio Indigo",
+    "description": "Radio Station",
+    "url": "https://a5.asurahosting.com:8600/radio.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265541"
+  },
+  {
+    "name": "Traffic Scotland Radio",
+    "description": "Radio Station",
+    "url": "https://stream.trafficradioscotland.org.uk/Scotland.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265543"
+  },
+  {
+    "name": "Bharat FM",
+    "description": "Radio Station",
+    "url": "https://s2.radio.co/s44bb88930/listen#.mp3?ver=997168",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265545"
+  },
+  {
+    "name": "Telangana FM",
+    "description": "Radio Station",
+    "url": "https://skystream.skonlinedeals.in:8030/radio.mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265546"
+  },
+  {
+    "name": "lycaradio",
+    "description": "Radio Station",
+    "url": "https://edge-ads-06-thn.sharp-stream.com/1458.mp3?",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265548"
+  },
+  {
+    "name": "Radio Gup-Shup 94.3 FM - India - Guwahati",
+    "description": "Radio Station",
+    "url": "https://internetradio.gupshupradio.com:8080/?type=mp3",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265550"
+  },
+  {
+    "name": "hindiretro",
+    "description": "Radio Station",
+    "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/MRETRO_Auto.m3u8",
+    "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
+    "status": "active",
+    "last_checked": "2026-08-10T03:55:19.265552"
+  }
+]
