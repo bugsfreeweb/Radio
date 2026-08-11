@@ -5,7 +5,7 @@
     "url": "http://tektite.streamguys1.com:5140/wwnojazz-mp3",
     "thumb": "http://radio.pervii.com/im/6/1574511266.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566162"
+    "last_checked": "2026-08-11T03:45:17.431440"
   },
   {
     "name": "RadioIDL - 128 kbit/s",
@@ -13,7 +13,7 @@
     "url": "http://mp3.radioidl.com:8002/stream/1/",
     "thumb": "http://radio.pervii.com/im/3/1570409763.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566169"
+    "last_checked": "2026-08-11T03:45:17.431446"
   },
   {
     "name": "Radio Jazz 89.1 FM - 64 kbit/s",
@@ -21,7 +21,7 @@
     "url": "http://nashe1.hostingradio.ru/jazz-64.mp3",
     "thumb": "http://radio.pervii.com/im/5/1537515045.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566170"
+    "last_checked": "2026-08-11T03:45:17.431447"
   },
   {
     "name": "Jazz London Radio - 256 kbit/s",
@@ -29,7 +29,7 @@
     "url": "http://radio.canstream.co.uk:8075/live.mp3?",
     "thumb": "http://radio.pervii.com/im/5/1554051895.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566171"
+    "last_checked": "2026-08-11T03:45:17.431448"
   },
   {
     "name": "SmoothJazz.com Global - 128 kbit/s",
@@ -37,7 +37,7 @@
     "url": "http://66.85.89.6:80/2585_128.mp3",
     "thumb": "http://radio.pervii.com/im/6/1555340396.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566172"
+    "last_checked": "2026-08-11T03:45:17.431449"
   },
   {
     "name": "Lounge Motion FM - MotionFM.com - 96 kbit/s",
@@ -45,7 +45,7 @@
     "url": "https://vm.motionfm.com/motionthree_aacp?=3",
     "thumb": "http://radio.pervii.com/im/4/1561691364.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566173"
+    "last_checked": "2026-08-11T03:45:17.431450"
   },
   {
     "name": "SmoothLounge.com - 128 kbit/s",
@@ -53,7 +53,7 @@
     "url": "https://smoothjazz.cdnstream1.com/2586_128.mp3",
     "thumb": "http://radio.pervii.com/logo/4382.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566174"
+    "last_checked": "2026-08-11T03:45:17.431451"
   },
   {
     "name": "Unspecified name - 128 kbit/s",
@@ -61,7 +61,7 @@
     "url": "https://jazzradio.ice.infomaniak.ch/jazzblues-high.mp3",
     "thumb": "http://radio.pervii.com/logo/12774.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566175"
+    "last_checked": "2026-08-11T03:45:17.431452"
   },
   {
     "name": "JAZZ RADIO NATIONALE - 128 kbit/s",
@@ -69,7 +69,7 @@
     "url": "https://jazzradio.ice.infomaniak.ch/frequencejazz-high.mp3",
     "thumb": "http://radio.pervii.com/im/5/1549791295.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566176"
+    "last_checked": "2026-08-11T03:45:17.431453"
   },
   {
     "name": "1.FM - Adore Jazz Radio - 128 kbit/s",
@@ -77,7 +77,7 @@
     "url": "http://strm112.1.fm/ajazz_mobile_mp3?",
     "thumb": "http://radio.pervii.com/logo/1426449734.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566177"
+    "last_checked": "2026-08-11T03:45:17.431454"
   },
   {
     "name": "SWR2",
@@ -85,7 +85,7 @@
     "url": "https://d131.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&cid=01FC1X4J91VJW1CVH6588MZEE3&sid=3HgRPONQNF684PAsMzDhTIbDgnC&token=-pjl5fd3-_wzLTdBviPHwutGpxMkdILEKnn30D_6WB8&tvf=g1DKQdg-yhhkMTMxLnJuZGZuay5jb20",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566178"
+    "last_checked": "2026-08-11T03:45:17.431455"
   },
   {
     "name": "FluxFM - Xjazz",
@@ -93,7 +93,7 @@
     "url": "http://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412?sABC=6n78963n%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1786287674",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566180"
+    "last_checked": "2026-08-11T03:45:17.431456"
   },
   {
     "name": "RADIO BOB - Blues [mp3 | 192 kbps]",
@@ -101,7 +101,7 @@
     "url": "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902?sABC=6n7888s3%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23fgernzf.enqvbobo.qr&n=853a8e3c7de3a411d948&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1786284275",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566181"
+    "last_checked": "2026-08-11T03:45:17.431457"
   },
   {
     "name": "ByteFM",
@@ -109,7 +109,7 @@
     "url": "http://bytefm.stream39.radiohost.de/bytefm-main_mp3-128?ar-distributor=f0a8&upd-meta&upd-scheme=http&ref=f0a8&amsparams=f0a8&_art=dD0xNzg2Mjg3OTY3JmQ9NDkyZDYxZGNhZWJjMWI0MGQ4ODU",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566182"
+    "last_checked": "2026-08-11T03:45:17.431458"
   },
   {
     "name": "BFM 89.9",
@@ -117,7 +117,7 @@
     "url": "https://22253.live.streamtheworld.com/BFMAAC.aac",
     "thumb": "https://radio.streamitter.com/images/logos/0GSB70.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566183"
+    "last_checked": "2026-08-11T03:45:17.431459"
   },
   {
     "name": "181.fm - Christmas Smooth Jazz",
@@ -125,7 +125,7 @@
     "url": "https://listen.181fm.com/181-xsmooth_128k.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566184"
+    "last_checked": "2026-08-11T03:45:17.431460"
   },
   {
     "name": "Radio Canada Ici Musique Nord de lOntario Sudbury, ON",
@@ -133,7 +133,7 @@
     "url": "https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8?n=ae90acbb674af01877ed",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566185"
+    "last_checked": "2026-08-11T03:45:17.431461"
   },
   {
     "name": "Power Ace Radio",
@@ -141,7 +141,7 @@
     "url": "https://music-station.live/radio/8030/radio.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566186"
+    "last_checked": "2026-08-11T03:45:17.431463"
   },
   {
     "name": "SNL RADIO",
@@ -149,7 +149,7 @@
     "url": "http://icecast01.loudcaster.com:80/527.64.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566187"
+    "last_checked": "2026-08-11T03:45:17.431463"
   },
   {
     "name": "BNR Radio Stara Zagora",
@@ -157,7 +157,7 @@
     "url": "https://e106-ts.cdn.bg/regstations/fls/StZagora.stream/playlist.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566188"
+    "last_checked": "2026-08-11T03:45:17.431464"
   },
   {
     "name": "Radio Canada Ici Musique - Montréal, QC",
@@ -165,7 +165,7 @@
     "url": "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8?n=4dc02f136a58eb87e91d",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566189"
+    "last_checked": "2026-08-11T03:45:17.431465"
   },
   {
     "name": "High Plains Public Radio",
@@ -173,7 +173,7 @@
     "url": "https://14843.live.streamtheworld.com/KANZFM_HPPR.mp3?dist=onlineradiobox",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566190"
+    "last_checked": "2026-08-11T03:45:17.431467"
   },
   {
     "name": "1.FM - Bay Smooth Jazz",
@@ -181,7 +181,7 @@
     "url": "https://strm112.1.fm/smoothjazz_mobile_mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566191"
+    "last_checked": "2026-08-11T03:45:17.431467"
   },
   {
     "name": "Vagalume.FM - Jazz",
@@ -189,7 +189,7 @@
     "url": "https://stream.vagalume.fm/hls/14635148092037245616/aac.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566192"
+    "last_checked": "2026-08-11T03:45:17.431468"
   },
   {
     "name": "MPR – KAUR",
@@ -197,7 +197,7 @@
     "url": "http://nis.stream.publicradio.org/nis.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566193"
+    "last_checked": "2026-08-11T03:45:17.431469"
   },
   {
     "name": "181.fm - Trance Jazz",
@@ -205,7 +205,7 @@
     "url": "http://icyrelay.181.fm/181-trancejazz_128k.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566194"
+    "last_checked": "2026-08-11T03:45:17.431470"
   },
   {
     "name": "NORA Webstream Live",
@@ -213,7 +213,7 @@
     "url": "https://regiocast.streamabc.net/regc-norawebstream-mp3-128-4596562?sABC=651r5o0p%230%235580o6p35q4694849425014209409q6p%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradioboxskey:1696488204",
     "thumb": "https://d371i8ihhgym7w.cloudfront.net/54616519.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566195"
+    "last_checked": "2026-08-11T03:45:17.431471"
   },
   {
     "name": "92.3 The Fox",
@@ -221,7 +221,7 @@
     "url": "https://19273.live.streamtheworld.com/KOFXFMAAC.aac?dist=onlineradiobox",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566196"
+    "last_checked": "2026-08-11T03:45:17.431472"
   },
   {
     "name": "Literatur-Musik",
@@ -229,7 +229,7 @@
     "url": "https://literatur-musik.stream.laut.fm/literatur-musik?ref=radiode&t302=2026-08-09_15-01-11&uuid=a15b75f1-aacf-4e87-afd1-463860acd70b",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566197"
+    "last_checked": "2026-08-11T03:45:17.431473"
   },
   {
     "name": "NPO Radio 6 Soul & Jazz",
@@ -237,7 +237,7 @@
     "url": "https://icecast.omroep.nl/radio6-bb-mp3?n=76242cb713b1f25de32f",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566198"
+    "last_checked": "2026-08-11T03:45:17.431474"
   },
   {
     "name": "Texas Tech Public Radio - KTTZ-HD2",
@@ -245,7 +245,7 @@
     "url": "https://18443.live.streamtheworld.com/KTTZHD2.mp3?dist=onlineradiobox",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566199"
+    "last_checked": "2026-08-11T03:45:17.431475"
   },
   {
     "name": "DR P8 Jazz",
@@ -253,7 +253,7 @@
     "url": "http://live-icy.gslb01.dr.dk/A/A22H.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566200"
+    "last_checked": "2026-08-11T03:45:17.431476"
   },
   {
     "name": "Wave 94.7 FM",
@@ -261,7 +261,7 @@
     "url": "https://14993.live.streamtheworld.com/CIWVFM.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566201"
+    "last_checked": "2026-08-11T03:45:17.431477"
   },
   {
     "name": "HRT - HR3",
@@ -269,7 +269,7 @@
     "url": "https://25683.live.streamtheworld.com/PROGRAM3.mp3?dist=onlineradiobox",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566202"
+    "last_checked": "2026-08-11T03:45:17.431478"
   },
   {
     "name": "Radio Monte Carlo MUSIC STAR FRANCO BATTIATO",
@@ -277,7 +277,7 @@
     "url": "https://icy.unitedradio.it/um057.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566203"
+    "last_checked": "2026-08-11T03:45:17.431479"
   },
   {
     "name": "Radio Muelheim - Dein Lounge",
@@ -285,7 +285,7 @@
     "url": "http://rnrw.stream43.radiohost.de/rnrw-deinlounge_mp3-192?addradio&sid=019E&ar-distributor=f0b7&upd-meta&upd-scheme=http&ref=f0b7&amsparams=f0b7&_art=dD0xNzg2Mjg4MDA1JmQ9NjVhMDY1ZTE1YjczODYyNTM4MWQ",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566204"
+    "last_checked": "2026-08-11T03:45:17.431480"
   },
   {
     "name": "Allzic Radio – Blues",
@@ -293,7 +293,7 @@
     "url": "http://allzic09.ice.infomaniak.ch/allzic09.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566205"
+    "last_checked": "2026-08-11T03:45:17.431481"
   },
   {
     "name": "Ici Musique Abitibi-Témiscamingue",
@@ -301,7 +301,7 @@
     "url": "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/playlist.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566206"
+    "last_checked": "2026-08-11T03:45:17.431482"
   },
   {
     "name": "Ici Musique Sudbury",
@@ -309,7 +309,7 @@
     "url": "https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566207"
+    "last_checked": "2026-08-11T03:45:17.431483"
   },
   {
     "name": "Texas Tech Public Radio  KTTZFM",
@@ -317,7 +317,7 @@
     "url": "https://18443.live.streamtheworld.com/KTTZHD1.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566208"
+    "last_checked": "2026-08-11T03:45:17.431484"
   },
   {
     "name": "181.FM BeBop Jazz",
@@ -325,7 +325,7 @@
     "url": "https://listen.181fm.com/181-bebop_128k.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566209"
+    "last_checked": "2026-08-11T03:45:17.431485"
   },
   {
     "name": "CapRadio - Music",
@@ -333,7 +333,7 @@
     "url": "https://18433.live.streamtheworld.com/KXPR.mp3?dist=onlineradiobox",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566210"
+    "last_checked": "2026-08-11T03:45:17.431486"
   },
   {
     "name": "Relax FM - Jazz",
@@ -341,7 +341,7 @@
     "url": "https://pub0101.101.ru/stream/trust/mp3/128/264",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566211"
+    "last_checked": "2026-08-11T03:45:17.431487"
   },
   {
     "name": "202.FM – Beyond BeBop",
@@ -349,7 +349,7 @@
     "url": "http://listen.livestreamingservice.com/181-bebop_128k.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566212"
+    "last_checked": "2026-08-11T03:45:17.431488"
   },
   {
     "name": "RTBF La Première",
@@ -357,7 +357,7 @@
     "url": "https://redbeemedia.streamabc.net/redbm-lapremiere-mp3-160-7134387?sABC=6n789698%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23ei&aw_0_1st.playerid=rv&amsparams=playerid:rv;skey:1786287768#PLAYLIST:Online radio: JAZZ Music (www.radio.pervii.com)",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566213"
+    "last_checked": "2026-08-11T03:45:17.431489"
   },
   {
     "name": "BNR Radio Hristo Botev",
@@ -365,7 +365,7 @@
     "url": "https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/playlist.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566214"
+    "last_checked": "2026-08-11T03:45:17.431490"
   },
   {
     "name": "QBNFM 96.7 FM",
@@ -373,7 +373,7 @@
     "url": "http://streaming.qbnfm.com.au:8000/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566215"
+    "last_checked": "2026-08-11T03:45:17.431491"
   },
   {
     "name": "JazzBites Radio Contemporary",
@@ -381,7 +381,7 @@
     "url": "https://14223.live.streamtheworld.com/SP_R2465036.mp3",
     "thumb": "https://radiospinner.com/media/logos/180/96833/logo_yLbp7mF00l.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566216"
+    "last_checked": "2026-08-11T03:45:17.431492"
   },
   {
     "name": "Smooth Global Living - Smooth Lounge",
@@ -389,7 +389,7 @@
     "url": "http://smoothjazz.cdnstream1.com/2586_128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566217"
+    "last_checked": "2026-08-11T03:45:17.431493"
   },
   {
     "name": "1.FM - Adore Jazz - Pop Hits from Switzerland",
@@ -397,7 +397,7 @@
     "url": "https://strm112.1.fm/ajazz_mobile_mp3?stream",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566218"
+    "last_checked": "2026-08-11T03:45:17.431494"
   },
   {
     "name": "BBC Radio 3 – UK only",
@@ -405,7 +405,7 @@
     "url": "https://emp.bbci.co.uk/emp/media/blank.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566219"
+    "last_checked": "2026-08-11T03:45:17.431495"
   },
   {
     "name": "Radio Humleborg",
@@ -413,7 +413,7 @@
     "url": "http://ca6.rcast.net:4058/;stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566220"
+    "last_checked": "2026-08-11T03:45:17.431496"
   },
   {
     "name": "Golden Days Radio",
@@ -421,7 +421,7 @@
     "url": "https://a2.asurahosting.com:6350/radio.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566221"
+    "last_checked": "2026-08-11T03:45:17.431497"
   },
   {
     "name": "Jazzradio Schwarzenstein",
@@ -429,7 +429,7 @@
     "url": "https://51-83-105-37-28ffe3.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/f71292b4-14b1-4353-96b5-2114a0793334/stream.mp3?source=radiode",
     "thumb": "https://d371i8ihhgym7w.cloudfront.net/78366372.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566222"
+    "last_checked": "2026-08-11T03:45:17.431498"
   },
   {
     "name": "das total erlebnis",
@@ -437,7 +437,7 @@
     "url": "https://radio.dastotalerlebnis.com/listen/main/hifi.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566223"
+    "last_checked": "2026-08-11T03:45:17.431499"
   },
   {
     "name": "Radio Antenna Web Quito",
@@ -445,7 +445,7 @@
     "url": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566224"
+    "last_checked": "2026-08-11T03:45:17.431500"
   },
   {
     "name": "FIP - Jazz",
@@ -453,7 +453,7 @@
     "url": "https://icecast.radiofrance.fr/fipjazz-midfi.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566225"
+    "last_checked": "2026-08-11T03:45:17.431501"
   },
   {
     "name": "KUVO",
@@ -461,7 +461,7 @@
     "url": "https://26373.live.streamtheworld.com/KVPR_CLASSICAL.mp3?dist=keepone.net",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566226"
+    "last_checked": "2026-08-11T03:45:17.431502"
   },
   {
     "name": "Радио Jazz Legends",
@@ -469,7 +469,7 @@
     "url": "http://jfm1.hostingradio.ru:14536/jlstream.mp3?n=a62233f73478d523e3ce",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566226"
+    "last_checked": "2026-08-11T03:45:17.431503"
   },
   {
     "name": "CapRadio - Music",
@@ -477,7 +477,7 @@
     "url": "https://22963.live.streamtheworld.com/KXPR.mp3",
     "thumb": "https://radiospinner.com/media/logos/180/102017/logo_CvPY8GIaOq.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566227"
+    "last_checked": "2026-08-11T03:45:17.431504"
   },
   {
     "name": "181.FM Christmas Smooth Jazz",
@@ -485,7 +485,7 @@
     "url": "http://listen.181fm.com/181-xsmooth_128k.mp3?noPreRoll=true",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566229"
+    "last_checked": "2026-08-11T03:45:17.431505"
   },
   {
     "name": "France Musique La Jazz",
@@ -493,7 +493,7 @@
     "url": "http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566230"
+    "last_checked": "2026-08-11T03:45:17.431506"
   },
   {
     "name": "CFBW BWR 91.3 Hanover, ON",
@@ -501,7 +501,7 @@
     "url": "http://s41.myradiostream.com:29922/listen.mp3?n=ab0e05f421754f1d5971",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566230"
+    "last_checked": "2026-08-11T03:45:17.431507"
   },
   {
     "name": "Jazz Radio Groov'Up",
@@ -509,7 +509,7 @@
     "url": "http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566231"
+    "last_checked": "2026-08-11T03:45:17.431508"
   },
   {
     "name": "DrGnu - Best of Rock",
@@ -517,7 +517,7 @@
     "url": "http://regiocast.streamabc.net/regc-radiobobbestofrock1362412-mp3-192-5332584?sABC=6n788916%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23zrqvncynlre&n=dce231567aae28aa41c8&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786284310",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566232"
+    "last_checked": "2026-08-11T03:45:17.431509"
   },
   {
     "name": "WDR 3 radio",
@@ -525,7 +525,7 @@
     "url": "http://f141.rndfnk.com/ard/wdr/wdr3/live/mp3/128/stream.mp3?aggregator=onlineradiobox-com&cid=01FBS0C9GMJJE2D5WXZHFQY7HG&sid=3HgRU5ThONjHkJIY8IA1gdU1XeA&token=61sn2RyhRC4KogmjSPeCv87wnJjwT4msP6UVCUGF4vA&tvf=1JAwyuA-yhhmMTQxLnJuZGZuay5jb20",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566233"
+    "last_checked": "2026-08-11T03:45:17.431510"
   },
   {
     "name": "FIP Bordeaux",
@@ -533,7 +533,7 @@
     "url": "https://icecast.radiofrance.fr/fip-midfi.mp3?ID=pd569ib97j",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566234"
+    "last_checked": "2026-08-11T03:45:17.431511"
   },
   {
     "name": "United Music Cool Jazz",
@@ -541,7 +541,7 @@
     "url": "http://icy.unitedradio.it/um039.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566235"
+    "last_checked": "2026-08-11T03:45:17.431512"
   },
   {
     "name": "105‘5 Spreeradio Deluxe",
@@ -549,7 +549,7 @@
     "url": "https://rtlberlin.streamabc.net/rtlb-deluxe-mp3-192-3248836?sABC=6n78966q%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786287725",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566236"
+    "last_checked": "2026-08-11T03:45:17.431513"
   },
   {
     "name": "Musica Jazz Radio",
@@ -557,7 +557,7 @@
     "url": "http://ice03.fluidstream.net/mjr.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566237"
+    "last_checked": "2026-08-11T03:45:17.431514"
   },
   {
     "name": "Cool FM Radio",
@@ -565,7 +565,7 @@
     "url": "https://27283.live.streamtheworld.com/CRUSHAAC.aac",
     "thumb": "https://radiospinner.com/media/logos/180/85642/logo_wlen1FdRX0.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566238"
+    "last_checked": "2026-08-11T03:45:17.431515"
   },
   {
     "name": "Radio Ennepe Ruhr - Lounge",
@@ -573,7 +573,7 @@
     "url": "http://rnrw.stream16.radiohost.de/rnrw-deinlounge_mp3-192?ar-distributor=f0b2&sid=0159&kombi=Westfunk&upd-meta&upd-scheme=http&ref=f0b2&amsparams=f0b2&_art=dD0xNzg2Mjg3OTg0JmQ9MzBjZTk1Nzg1MWFkZjlkYjQ5N2Y",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566239"
+    "last_checked": "2026-08-11T03:45:17.431516"
   },
   {
     "name": "Regal Radio Listen live",
@@ -581,7 +581,7 @@
     "url": "https://stream.regalradio.net/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566240"
+    "last_checked": "2026-08-11T03:45:17.431517"
   },
   {
     "name": "X Jazz",
@@ -589,7 +589,7 @@
     "url": "http://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824?sABC=6n789690%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786287760",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566241"
+    "last_checked": "2026-08-11T03:45:17.431518"
   },
   {
     "name": "KGOU FM",
@@ -597,7 +597,7 @@
     "url": "https://18123.live.streamtheworld.com/KGOUFMAAC.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566242"
+    "last_checked": "2026-08-11T03:45:17.431519"
   },
   {
     "name": "FAME 95 FM Radio",
@@ -605,7 +605,7 @@
     "url": "https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8",
     "thumb": "https://radiospinner.com/media/logos/180/89371/logo_f5TReocP9w.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566243"
+    "last_checked": "2026-08-11T03:45:17.431520"
   },
   {
     "name": "Radio40web",
@@ -613,7 +613,7 @@
     "url": "https://cast2.server89.com:8180/radio.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566244"
+    "last_checked": "2026-08-11T03:45:17.431521"
   },
   {
     "name": "WCLK - The Jazz of The City 91.9 FM",
@@ -621,7 +621,7 @@
     "url": "https://18323.live.streamtheworld.com/WCLKFM.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566245"
+    "last_checked": "2026-08-11T03:45:17.431522"
   },
   {
     "name": "Jazz Radio Jazz && Cinema",
@@ -629,7 +629,7 @@
     "url": "http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566246"
+    "last_checked": "2026-08-11T03:45:17.431523"
   },
   {
     "name": "Montecarlo FM",
@@ -637,7 +637,7 @@
     "url": "https://rrdns-rcr.webnow.com.br/mtecarlot.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566247"
+    "last_checked": "2026-08-11T03:45:17.431524"
   },
   {
     "name": "Klassik Radio - Friends @ Home [AAC 64 kbit/s]",
@@ -645,7 +645,7 @@
     "url": "https://klassikr.streamabc.net/klr-friendshome-aacplus-64-1093984?sABC=6n78965p%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23fgernz.xynffvxenqvb.qr&aggregator=hoererdirekt?n=d504d075503c488d4a21&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1786287708",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566248"
+    "last_checked": "2026-08-11T03:45:17.431525"
   },
   {
     "name": "CKVS 93.7 Voice of the Shuswap, BC",
@@ -653,7 +653,7 @@
     "url": "http://s2.stationplaylist.com:9240/listen.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566249"
+    "last_checked": "2026-08-11T03:45:17.431526"
   },
   {
     "name": "APR-HD2",
@@ -661,7 +661,7 @@
     "url": "https://14133.live.streamtheworld.com/WUAL_HD2.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566250"
+    "last_checked": "2026-08-11T03:45:17.431527"
   },
   {
     "name": "Radio soma fm sonic universe",
@@ -669,7 +669,7 @@
     "url": "https://ice3.somafm.com/sonicuniverse-128-mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566251"
+    "last_checked": "2026-08-11T03:45:17.431528"
   },
   {
     "name": "Jazzy",
@@ -677,7 +677,7 @@
     "url": "https://radio.musorok.org/listen/jazzy/jazzy.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566252"
+    "last_checked": "2026-08-11T03:45:17.431529"
   },
   {
     "name": "mood fm",
@@ -685,7 +685,7 @@
     "url": "https://usa7-vn.mixstream.net/:8016/listen.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566253"
+    "last_checked": "2026-08-11T03:45:17.431530"
   },
   {
     "name": "DrGnu - Metal 2 Knight",
@@ -693,7 +693,7 @@
     "url": "http://regiocast.streamabc.net/regc-radiobob2000rock2507507-mp3-192-9881528?sABC=6n78892p%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23zrqvncynlre&n=4026c5e328d4e4993009&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786284332",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566254"
+    "last_checked": "2026-08-11T03:45:17.431531"
   },
   {
     "name": "Crooner Radio, Paris",
@@ -701,7 +701,7 @@
     "url": "https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566255"
+    "last_checked": "2026-08-11T03:45:17.431532"
   },
   {
     "name": "Radio Canada Ici Musique Alberta Edmonton, AB",
@@ -709,7 +709,7 @@
     "url": "https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8?n=85a4a8cda044fa00afe8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566256"
+    "last_checked": "2026-08-11T03:45:17.431533"
   },
   {
     "name": "Jazz Radio",
@@ -717,7 +717,7 @@
     "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-villefranche.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566257"
+    "last_checked": "2026-08-11T03:45:17.431534"
   },
   {
     "name": "Jazz Radio - Groov’up",
@@ -725,7 +725,7 @@
     "url": "https://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566258"
+    "last_checked": "2026-08-11T03:45:17.431535"
   },
   {
     "name": "DrGnu - 90th Rock",
@@ -733,7 +733,7 @@
     "url": "http://regiocast.streamabc.net/regc-radiobob90srock8400272-mp3-192-6033382?sABC=6n788937%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23zrqvncynlre&n=5028aba3d4342abc02b0&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786284343",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566259"
+    "last_checked": "2026-08-11T03:45:17.431536"
   },
   {
     "name": "DrGnu - Rock Party",
@@ -741,7 +741,7 @@
     "url": "http://regiocast.streamabc.net/regc-radiobobrockparty8725072-mp3-192-3956507?sABC=6n78893p%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23zrqvncynlre&n=3322cb9e6d38d261def1&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786284348",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566260"
+    "last_checked": "2026-08-11T03:45:17.431537"
   },
   {
     "name": "DrGnu - 80th Rock",
@@ -749,7 +749,7 @@
     "url": "http://regiocast.streamabc.net/regc-radiobob80srock2115424-mp3-192-2080682?sABC=6n788941%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23zrqvncynlre&n=b7298625b458de6e44c3&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786284353",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566261"
+    "last_checked": "2026-08-11T03:45:17.431538"
   },
   {
     "name": "egoFM JAZZ",
@@ -757,7 +757,7 @@
     "url": "https://cast.egofm.de/egofmjazz.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566262"
+    "last_checked": "2026-08-11T03:45:17.431539"
   },
   {
     "name": "DrGnu - Metallica",
@@ -765,7 +765,7 @@
     "url": "http://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789?sABC=6n788940%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23zrqvncynlre&n=b33a43e21938c28a8215&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1786284352",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566263"
+    "last_checked": "2026-08-11T03:45:17.431540"
   },
   {
     "name": "SomaFM - Boot Liquor",
@@ -773,7 +773,7 @@
     "url": "https://ice4.somafm.com/bootliquor-320-mp3",
     "thumb": "https://radio.streamitter.com/images/logos/Z7KNYX.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566264"
+    "last_checked": "2026-08-11T03:45:17.431541"
   },
   {
     "name": "MDR Sputnik Insomnia low",
@@ -781,7 +781,7 @@
     "url": "http://avw.mdr.de/streams/284331-3_mp3_low.m3u?n=301a70f1d70049674bc4",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566265"
+    "last_checked": "2026-08-11T03:45:17.431542"
   },
   {
     "name": "Tonic Radio Jazz Clubbing",
@@ -789,7 +789,7 @@
     "url": "https://tonicradio100ladies.ice.infomaniak.ch/tonicradio100ladies-128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566266"
+    "last_checked": "2026-08-11T03:45:17.431543"
   },
   {
     "name": "GPB Radio Atlanta – WUWG",
@@ -797,7 +797,7 @@
     "url": "http://gpb.iad.streamguys1.com:80/gpb-atlanta-aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566267"
+    "last_checked": "2026-08-11T03:45:17.431543"
   },
   {
     "name": "Radio Fajet",
@@ -805,7 +805,7 @@
     "url": "http://ecoutez.fajet.net:16600/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566267"
+    "last_checked": "2026-08-11T03:45:17.431544"
   },
   {
     "name": "KZWA",
@@ -813,7 +813,7 @@
     "url": "https://16603.live.streamtheworld.com/KZWAFM.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566268"
+    "last_checked": "2026-08-11T03:45:17.431545"
   },
   {
     "name": "Arrow Bluesbox",
@@ -821,7 +821,7 @@
     "url": "https://22713.live.streamtheworld.com/ARROWBLUESBOX.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566269"
+    "last_checked": "2026-08-11T03:45:17.431546"
   },
   {
     "name": "Best Net Radio - Coffee House",
@@ -829,7 +829,7 @@
     "url": "http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597\\u0026cb=178685.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566270"
+    "last_checked": "2026-08-11T03:45:17.431547"
   },
   {
     "name": "KRCB-FM Radio 91",
@@ -837,7 +837,7 @@
     "url": "http://amber.streamguys.com:5540/live-mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566271"
+    "last_checked": "2026-08-11T03:45:17.431548"
   },
   {
     "name": "Radio Sunshine",
@@ -845,7 +845,7 @@
     "url": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-4746851?sABC=6n788936%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1786284342",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566272"
+    "last_checked": "2026-08-11T03:45:17.431549"
   },
   {
     "name": "Island 92 FM radio",
@@ -853,7 +853,7 @@
     "url": "https://ais-sa1.streamon.fm/7338_48k.aac/playlist.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566273"
+    "last_checked": "2026-08-11T03:45:17.431550"
   },
   {
     "name": "SomaFM ThistleRadio",
@@ -861,7 +861,7 @@
     "url": "https://ice3.somafm.com/thistle-128-mp3",
     "thumb": "https://radiospinner.com/media/logos/180/97386/logo_eAbe4iQYEz.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566274"
+    "last_checked": "2026-08-11T03:45:17.431551"
   },
   {
     "name": "Jazz Radio",
@@ -869,7 +869,7 @@
     "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-bastia.aac",
     "thumb": "https://radiospinner.com/media/logos/180/45662/logo_lhhP1tdEIZ.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566275"
+    "last_checked": "2026-08-11T03:45:17.431552"
   },
   {
     "name": "High Plains Public Radio",
@@ -877,7 +877,7 @@
     "url": "https://19473.live.streamtheworld.com/KANZFM_HPPR.mp3?dist=onlineradiobox",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566276"
+    "last_checked": "2026-08-11T03:45:17.431553"
   },
   {
     "name": "Radio 100,7",
@@ -885,7 +885,7 @@
     "url": "http://100komma7.stream11.radiohost.de/100komma7-100komma7_mp3-128?addradio&agend=true&upd-meta&upd-scheme=http&_art=dD0xNzg2Mjg0NjE0JmQ9ZjZjMmYzN2I4MGExMDJmYTY0NWQ",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566277"
+    "last_checked": "2026-08-11T03:45:17.431554"
   },
   {
     "name": "CFBW \"BWR 91.3\" Hanover, ON",
@@ -893,7 +893,7 @@
     "url": "http://s41.myradiostream.com:29922/listen.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566278"
+    "last_checked": "2026-08-11T03:45:17.431555"
   },
   {
     "name": "Antenna Web Monaco",
@@ -901,7 +901,7 @@
     "url": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
     "thumb": "https://radiostationslive.com/uploads/2024/01/131161.v2.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566279"
+    "last_checked": "2026-08-11T03:45:17.431556"
   },
   {
     "name": "Otros Nosotros",
@@ -909,7 +909,7 @@
     "url": "https://01.solumedia.com.ar:8072/stream.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566280"
+    "last_checked": "2026-08-11T03:45:17.431557"
   },
   {
     "name": "CBC Radio 1 Calgary CBR - 1010 AM, 99.1 FM",
@@ -917,7 +917,7 @@
     "url": "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8?n=cbcd390fc15525cefd73",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566281"
+    "last_checked": "2026-08-11T03:45:17.431558"
   },
   {
     "name": "Evidence Online",
@@ -925,7 +925,7 @@
     "url": "https://radio3.pro-fhi.net/radio/9023/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566282"
+    "last_checked": "2026-08-11T03:45:17.431559"
   },
   {
     "name": "Regal Radio",
@@ -933,7 +933,7 @@
     "url": "https://stream.regalradio.net/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566283"
+    "last_checked": "2026-08-11T03:45:17.431560"
   },
   {
     "name": "181.fm - The Point",
@@ -941,7 +941,7 @@
     "url": "http://mp3uplink.duplexfx.com:8010/",
     "thumb": "https://radio.streamitter.com/images/logos/AW9PZ.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566284"
+    "last_checked": "2026-08-11T03:45:17.431561"
   },
   {
     "name": "Virgin Radio Rockstar: AC/DC",
@@ -949,7 +949,7 @@
     "url": "http://icy.unitedradio.it/um1026.mp3?n=8354d827fd4e1cdde349",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566285"
+    "last_checked": "2026-08-11T03:45:17.431562"
   },
   {
     "name": "90.5 WICN Public Radio - Jazz+ for New England",
@@ -957,7 +957,7 @@
     "url": "https://wicn-ice.streamguys1.com/live-mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566287"
+    "last_checked": "2026-08-11T03:45:17.431563"
   },
   {
     "name": "OUI FM Blues 'N' Rock",
@@ -965,7 +965,7 @@
     "url": "http://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566288"
+    "last_checked": "2026-08-11T03:45:17.431564"
   },
   {
     "name": "Smooth FM AAC",
@@ -973,7 +973,7 @@
     "url": "https://stream-icy.bauermedia.pt/smooth.aac?n=aee6430f1e5d3beae829",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566288"
+    "last_checked": "2026-08-11T03:45:17.431565"
   },
   {
     "name": "WESM 913 FM",
@@ -981,7 +981,7 @@
     "url": "https://26273.live.streamtheworld.com/WESMFM.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566289"
+    "last_checked": "2026-08-11T03:45:17.431566"
   },
   {
     "name": "WURC-FM 88.1",
@@ -989,7 +989,7 @@
     "url": "https://14553.live.streamtheworld.com/WURCFM.mp3",
     "thumb": "https://radiostationslive.com/uploads/2024/01/49855.v7.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566290"
+    "last_checked": "2026-08-11T03:45:17.431568"
   },
   {
     "name": "MVYRadio - WMVY 88.7 FM",
@@ -997,7 +997,7 @@
     "url": "https://mvyradio.streamguys1.com/mvy-mp3",
     "thumb": "https://d371i8ihhgym7w.cloudfront.net/624.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566291"
+    "last_checked": "2026-08-11T03:45:17.431571"
   },
   {
     "name": "101.7 CKDH - CKDH-FM",
@@ -1005,7 +1005,7 @@
     "url": "http://mbsradio.leanstream.co/CKDHFM-MP3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566292"
+    "last_checked": "2026-08-11T03:45:17.431601"
   },
   {
     "name": "WDLT-FM 104.1",
@@ -1013,7 +1013,7 @@
     "url": "https://14153.live.streamtheworld.com/WDLTFMAAC_SC",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566293"
+    "last_checked": "2026-08-11T03:45:17.431603"
   },
   {
     "name": "Ràdio Túria 90.6",
@@ -1021,7 +1021,7 @@
     "url": "http://streaming.enacast.com:8000/radioturiaHD.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566294"
+    "last_checked": "2026-08-11T03:45:17.431605"
   },
   {
     "name": "KCRW News",
@@ -1029,7 +1029,7 @@
     "url": "https://streams.kcrw.com/news24_mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566295"
+    "last_checked": "2026-08-11T03:45:17.431607"
   },
   {
     "name": "Oyster Radio 100.5 FM",
@@ -1037,7 +1037,7 @@
     "url": "https://18393.live.streamtheworld.com/KBLXFMAAC.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566296"
+    "last_checked": "2026-08-11T03:45:17.431610"
   },
   {
     "name": "Radyo Bilkent",
@@ -1045,7 +1045,7 @@
     "url": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566297"
+    "last_checked": "2026-08-11T03:45:17.431612"
   },
   {
     "name": "Best of Rock FM - Hard Rock Radio",
@@ -1053,7 +1053,7 @@
     "url": "https://radio21.streamabc.net/radio21-hardrock-mp3-192-5131129",
     "thumb": "https://radiospinner.com/media/logos/180/31018/logo_QSBQXeLM39.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566298"
+    "last_checked": "2026-08-11T03:45:17.431614"
   },
   {
     "name": "Radio Mirage - Stars Channel",
@@ -1061,7 +1061,7 @@
     "url": "https://radio.castpol.pl:8020/radio.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566299"
+    "last_checked": "2026-08-11T03:45:17.431615"
   },
   {
     "name": "radio-turbogail",
@@ -1069,7 +1069,7 @@
     "url": "https://radio-turbogail.stream.laut.fm/radio-turbogail?ref=radiode&t302=2026-08-09_14-05-28&uuid=5d3a96f7-d2de-4e75-87a9-e9aacca97468",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566300"
+    "last_checked": "2026-08-11T03:45:17.431616"
   },
   {
     "name": "5MBS 99.9 FM",
@@ -1077,7 +1077,7 @@
     "url": "https://stream01.sigile.net/5mbs-64-mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566301"
+    "last_checked": "2026-08-11T03:45:17.431618"
   },
   {
     "name": "Jazz Radio 89.1 FM",
@@ -1085,7 +1085,7 @@
     "url": "http://jazz.streamr.ru/jazz-128.mp3",
     "thumb": "https://radio.streamitter.com/images/logos/AUEPPF.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566302"
+    "last_checked": "2026-08-11T03:45:17.431619"
   },
   {
     "name": "Power Smooth Jazz",
@@ -1093,7 +1093,7 @@
     "url": "https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/256/chunks.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566303"
+    "last_checked": "2026-08-11T03:45:17.431620"
   },
   {
     "name": "Jazz Radio Afro Jazz",
@@ -1101,7 +1101,7 @@
     "url": "https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac",
     "thumb": "https://d371i8ihhgym7w.cloudfront.net/81449996.jpg",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566304"
+    "last_checked": "2026-08-11T03:45:17.431621"
   },
   {
     "name": "ROCK ANTENNE BLUES ROCK",
@@ -1109,7 +1109,7 @@
     "url": "https://s1-webradio.rockantenne.de/hair-metal/stream/mp3?n=b46fad49b4b3209e71bd",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566305"
+    "last_checked": "2026-08-11T03:45:17.431622"
   },
   {
     "name": "Radio Superb Brasov",
@@ -1117,7 +1117,7 @@
     "url": "https://live.superfm.ro/stream.mp3?nocache=0.48263294609630647",
     "thumb": "https://radiospinner.com/media/logos/180/38484/logo_EeY8Ab1R0w.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566306"
+    "last_checked": "2026-08-11T03:45:17.431623"
   },
   {
     "name": "Ujima Radio",
@@ -1125,7 +1125,7 @@
     "url": "https://radio.canstream.co.uk:8037/live.mp3?n=03e475d9e86da78fe7fa",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566307"
+    "last_checked": "2026-08-11T03:45:17.431624"
   },
   {
     "name": "KMHD",
@@ -1133,7 +1133,7 @@
     "url": "https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566308"
+    "last_checked": "2026-08-11T03:45:17.431625"
   },
   {
     "name": "Allzic Jazz Blues",
@@ -1141,7 +1141,7 @@
     "url": "https://allzic09.ice.infomaniak.ch/allzic09.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566309"
+    "last_checked": "2026-08-11T03:45:17.431626"
   },
   {
     "name": "Riff & Roots Radio",
@@ -1149,7 +1149,7 @@
     "url": "https://a6.asurahosting.com/listen/riff__roots_radio/radio.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566310"
+    "last_checked": "2026-08-11T03:45:17.431627"
   },
   {
     "name": "Jazz Radio Electro Swing",
@@ -1157,7 +1157,7 @@
     "url": "https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3",
     "thumb": "https://radio.streamitter.com/images/logos/LBO49C.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566311"
+    "last_checked": "2026-08-11T03:45:17.431628"
   },
   {
     "name": "Радіо Лампа",
@@ -1165,7 +1165,7 @@
     "url": "https://cast.gossdhosting.com/listen/radio_lampa/radio.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566312"
+    "last_checked": "2026-08-11T03:45:17.431629"
   },
   {
     "name": "GotRadio - Bit O Blues",
@@ -1173,7 +1173,7 @@
     "url": "https://pureplay.cdnstream1.com/6019_128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566313"
+    "last_checked": "2026-08-11T03:45:17.431630"
   },
   {
     "name": "Rattlesnake Radio",
@@ -1181,7 +1181,7 @@
     "url": "https://server3755.streamplus.de/stream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566314"
+    "last_checked": "2026-08-11T03:45:17.431631"
   },
   {
     "name": "101.RU - R'n'B",
@@ -1189,7 +1189,7 @@
     "url": "https://pub0101.101.ru/stream/pro/aac/64/15",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566314"
+    "last_checked": "2026-08-11T03:45:17.431632"
   },
   {
     "name": "Радио JAZZ - Jazz Legends Listen live",
@@ -1197,7 +1197,7 @@
     "url": "https://jfm1.hostingradio.ru:14536/jlstream.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566315"
+    "last_checked": "2026-08-11T03:45:17.431633"
   },
   {
     "name": "WFDU HD1",
@@ -1205,7 +1205,7 @@
     "url": "https://peridot.streamguys1.com:5350/iheart-aac",
     "thumb": "https://radiostationslive.com/uploads/2024/01/25542.v3.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566317"
+    "last_checked": "2026-08-11T03:45:17.431634"
   },
   {
     "name": "Nancy-Webradio",
@@ -1213,7 +1213,7 @@
     "url": "https://nancy-webradio.ice.infomaniak.ch/nancy-webradio-32.aac",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566318"
+    "last_checked": "2026-08-11T03:45:17.431635"
   },
   {
     "name": "Радио Монте-Карло - Wonderful Blues",
@@ -1221,7 +1221,7 @@
     "url": "https://mc-blues.hostingradio.ru/blues96.aacp",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566319"
+    "last_checked": "2026-08-11T03:45:17.431636"
   },
   {
     "name": "Jazz Radio Reprises",
@@ -1229,7 +1229,7 @@
     "url": "https://reprises.ice.infomaniak.ch/reprises-high.mp3",
     "thumb": "https://radio.streamitter.com/images/logos/YW0DIH.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566320"
+    "last_checked": "2026-08-11T03:45:17.431637"
   },
   {
     "name": "Radio Caroline - Carocool",
@@ -1237,7 +1237,7 @@
     "url": "https://carocool.ice.infomaniak.ch/carocool-128.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566321"
+    "last_checked": "2026-08-11T03:45:17.431638"
   },
   {
     "name": "Swing FM",
@@ -1245,7 +1245,7 @@
     "url": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3#",
     "thumb": "https://d371i8ihhgym7w.cloudfront.net/34065.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566322"
+    "last_checked": "2026-08-11T03:45:17.431639"
   },
   {
     "name": "Rock & Folk rock n folk",
@@ -1253,7 +1253,7 @@
     "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?n=10c4dc8ac10d39b4aee4",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566323"
+    "last_checked": "2026-08-11T03:45:17.431640"
   },
   {
     "name": "DBC Radio",
@@ -1261,7 +1261,7 @@
     "url": "https://dbc.ice.infomaniak.ch/dbc-96.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566324"
+    "last_checked": "2026-08-11T03:45:17.431641"
   },
   {
     "name": "OÜI FM Blues&#039;N&#039;Rock",
@@ -1269,6 +1269,6 @@
     "url": "https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high.mp3",
     "thumb": "https://raw.githubusercontent.com/bugsfreeweb/Radio/main/assets/bugsfree-streams.png",
     "status": "active",
-    "last_checked": "2026-08-10T03:55:37.566325"
+    "last_checked": "2026-08-11T03:45:17.431642"
   }
 ]
